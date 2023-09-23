@@ -1,0 +1,5002 @@
+[
+    {
+        "query": "A person wants to start saving money so that they can afford a nice vacation at the end of the year. After looking over their budget and expenses, they decide the best way to save money is to",
+        "cands": [
+            "make more phone calls",
+            "quit eating lunch out",
+            "buy less with monopoly money",
+            "have lunch with friends"
+        ],
+        "answer": "quit eating lunch out"
+    },
+    {
+        "query": "There is most likely going to be fog around:",
+        "cands": [
+            "a marsh",
+            "a tundra",
+            "the plains",
+            "a desert"
+        ],
+        "answer": "a marsh"
+    },
+    {
+        "query": "Predators eat",
+        "cands": [
+            "lions",
+            "humans",
+            "bunnies",
+            "grass"
+        ],
+        "answer": "bunnies"
+    },
+    {
+        "query": "Oak tree seeds are planted and a sidewalk is paved right next to that spot, until eventually, the tree is tall and the roots must extend past the sidewalk, which means",
+        "cands": [
+            "roots may be split",
+            "roots may begin to die",
+            "parts may break the concrete",
+            "roots may fall apart"
+        ],
+        "answer": "parts may break the concrete"
+    },
+    {
+        "query": "An electric car runs on electricity via",
+        "cands": [
+            "gasoline",
+            "a power station",
+            "electrical conductors",
+            "fuel"
+        ],
+        "answer": "electrical conductors"
+    },
+    {
+        "query": "As the rain forest is deforested the atmosphere will increase with",
+        "cands": [
+            "oxygen",
+            "nitrogen",
+            "carbon",
+            "rain"
+        ],
+        "answer": "carbon"
+    },
+    {
+        "query": "an electric car contains a motor that runs on",
+        "cands": [
+            "gas",
+            "hydrogen",
+            "ions",
+            "plutonium"
+        ],
+        "answer": "ions"
+    },
+    {
+        "query": "The middle of the day usually involves the bright star nearest to the earth to be straight overhead why?",
+        "cands": [
+            "moons gravity",
+            "human planet rotation",
+            "global warming",
+            "moon rotation"
+        ],
+        "answer": "human planet rotation"
+    },
+    {
+        "query": "The summer solstice in the northern hemisphere is four months before",
+        "cands": [
+            "May",
+            "July",
+            "April",
+            "October"
+        ],
+        "answer": "October"
+    },
+    {
+        "query": "The main component in dirt is",
+        "cands": [
+            "microorganisms",
+            "broken stones",
+            "pollution",
+            "bacteria"
+        ],
+        "answer": "broken stones"
+    },
+    {
+        "query": "It's easier for human's to survive in:",
+        "cands": [
+            "a cave",
+            "the ocean.",
+            "a town",
+            "alone"
+        ],
+        "answer": "a town"
+    },
+    {
+        "query": "A cactus stem is used to store",
+        "cands": [
+            "fruit",
+            "liquid",
+            "food",
+            "spines"
+        ],
+        "answer": "liquid"
+    },
+    {
+        "query": "A red-tailed hawk is searching for prey. It is most likely to swoop down on",
+        "cands": [
+            "an eagle",
+            "a cow",
+            "a gecko",
+            "a deer"
+        ],
+        "answer": "a gecko"
+    },
+    {
+        "query": "The chance of wildfires is increased by",
+        "cands": [
+            "parched foliage",
+            "torrential rain",
+            "lush foliage",
+            "careful fire maintenance"
+        ],
+        "answer": "parched foliage"
+    },
+    {
+        "query": "A positive effect of burning biofuel is",
+        "cands": [
+            "shortage of crops for the food supply",
+            "an increase in air pollution",
+            "powering the lights in a home",
+            "deforestation in the amazon to make room for crops"
+        ],
+        "answer": "powering the lights in a home"
+    },
+    {
+        "query": "As gasoline costs rise, alternative fuels are being used, which means that",
+        "cands": [
+            "wind power will be expensive",
+            "gas costs will rise",
+            "oil costs will be maintained",
+            "gasoline will be needed less"
+        ],
+        "answer": "gasoline will be needed less"
+    },
+    {
+        "query": "A person wants to be able to have more natural power in their home. They choose to cease using a traditional electric company to source this electricity, and so decide to install",
+        "cands": [
+            "sun grafts",
+            "sunlight shields",
+            "panels collecting sunlight",
+            "solar bees"
+        ],
+        "answer": "panels collecting sunlight"
+    },
+    {
+        "query": "A Mola Mola might live where?",
+        "cands": [
+            "Lake Michigan",
+            "The Mississippi River",
+            "Bay of Bengal",
+            "Lake Eerie"
+        ],
+        "answer": "Bay of Bengal"
+    },
+    {
+        "query": "Which requires energy to move?",
+        "cands": [
+            "weasel",
+            "willow",
+            "mango",
+            "poison ivy"
+        ],
+        "answer": "weasel"
+    },
+    {
+        "query": "An animal that only eats plants is a",
+        "cands": [
+            "rat",
+            "moth",
+            "chimpanzee",
+            "pig"
+        ],
+        "answer": "moth"
+    },
+    {
+        "query": "There was a lot more water vapor in the air when we went on a trip to",
+        "cands": [
+            "Hanoi",
+            "Athens",
+            "Baghdad",
+            "Phoenix"
+        ],
+        "answer": "Hanoi"
+    },
+    {
+        "query": "An example of conservation is avoiding the use of",
+        "cands": [
+            "gasoline",
+            "air",
+            "snow",
+            "clothes"
+        ],
+        "answer": "gasoline"
+    },
+    {
+        "query": "What can feathers on Spheniscidae be used for?",
+        "cands": [
+            "keeping warm",
+            "flying",
+            "sleeping",
+            "eating"
+        ],
+        "answer": "keeping warm"
+    },
+    {
+        "query": "Overpopulation can cause",
+        "cands": [
+            "More fresh water for people to drink",
+            "Lower Life Expectancy in Countries",
+            "More food for more people",
+            "More space for places to people to live"
+        ],
+        "answer": "Lower Life Expectancy in Countries"
+    },
+    {
+        "query": "Shining a light through a diamond can",
+        "cands": [
+            "make a lot of bright lights shine",
+            "summon a brilliant wave of color",
+            "heat up a room",
+            "make a lot of money"
+        ],
+        "answer": "summon a brilliant wave of color"
+    },
+    {
+        "query": "If you were attacked by a shark and had to punch it sharply where it pulls in air from, you'd use your hand to make contact with",
+        "cands": [
+            "its snout",
+            "its gills",
+            "its nose",
+            "its belly"
+        ],
+        "answer": "its gills"
+    },
+    {
+        "query": "which of these would stop a car quicker?",
+        "cands": [
+            "a wheel with wet brake pads",
+            "a wheel without brake pads",
+            "a wheel with worn brake pads",
+            "a wheel with dry brake pads"
+        ],
+        "answer": "a wheel with dry brake pads"
+    },
+    {
+        "query": "what system is needed for a body to get its needed supply of the gas humans breathe in?",
+        "cands": [
+            "the circulatory system",
+            "the digestive system",
+            "the school system",
+            "central nervous system"
+        ],
+        "answer": "the circulatory system"
+    },
+    {
+        "query": "Every evening a child can look into the night sky and see that the moon is",
+        "cands": [
+            "gone",
+            "breaking",
+            "falling",
+            "moving upwards"
+        ],
+        "answer": "moving upwards"
+    },
+    {
+        "query": "When it's flying, a plane has no friction with the",
+        "cands": [
+            "wings",
+            "ground",
+            "air",
+            "clouds"
+        ],
+        "answer": "ground"
+    },
+    {
+        "query": "To grow plants require",
+        "cands": [
+            "acid rain",
+            "pesticides",
+            "shafts of sunlight",
+            "moonbeam rays"
+        ],
+        "answer": "shafts of sunlight"
+    },
+    {
+        "query": "What is the best way to guess a babies eye color?",
+        "cands": [
+            "The surroundings they are born in.",
+            "Their parents usual diet.",
+            "Just take a random guess.",
+            "The genealogy records of their family."
+        ],
+        "answer": "The genealogy records of their family."
+    },
+    {
+        "query": "What animal eats plants?",
+        "cands": [
+            "eagles",
+            "robins",
+            "owls",
+            "leopards"
+        ],
+        "answer": "robins"
+    },
+    {
+        "query": "Which of these is a hypothesis?",
+        "cands": [
+            "The ice caps will completely melt if global warming continues",
+            "The earth is round",
+            "The earth revolves around the sun",
+            "Gravity causes objects to fall"
+        ],
+        "answer": "The ice caps will completely melt if global warming continues"
+    },
+    {
+        "query": "What explains the characteristic lunar formations?",
+        "cands": [
+            "remains of ancient ponds",
+            "many collisions that have occured",
+            "volcanic explosions over millions of years",
+            "sink holes due to the moons porous nature"
+        ],
+        "answer": "many collisions that have occured"
+    },
+    {
+        "query": "Tadpoles start their lives as",
+        "cands": [
+            "Water animals",
+            "Frogs",
+            "Ants",
+            "College Students"
+        ],
+        "answer": "Water animals"
+    },
+    {
+        "query": "If a person puts out four apples around their home on the same day, the molecules in which apple would be moving the most rapidly?",
+        "cands": [
+            "the apple sitting on a sunny sidewalk",
+            "the apple in the freezer",
+            "the apple sitting on the shaded stoop",
+            "the apple in a closet"
+        ],
+        "answer": "the apple sitting on a sunny sidewalk"
+    },
+    {
+        "query": "What is used for sensing visual things?",
+        "cands": [
+            "nerves",
+            "tibia",
+            "nostril",
+            "cornea"
+        ],
+        "answer": "cornea"
+    },
+    {
+        "query": "They studied the soil by using",
+        "cands": [
+            "plants",
+            "a telescope",
+            "roots",
+            "a microscope"
+        ],
+        "answer": "a microscope"
+    },
+    {
+        "query": "Bill's arm got cold when he put it inside the",
+        "cands": [
+            "refrigerator",
+            "room",
+            "jacket",
+            "oven"
+        ],
+        "answer": "refrigerator"
+    },
+    {
+        "query": "A recyclable material can be",
+        "cands": [
+            "transformed",
+            "traded",
+            "thrown away",
+            "used more times"
+        ],
+        "answer": "used more times"
+    },
+    {
+        "query": "What is different about birth in humans and chickens?",
+        "cands": [
+            "Mother",
+            "Fertilization",
+            "Father",
+            "the hard shell"
+        ],
+        "answer": "the hard shell"
+    },
+    {
+        "query": "Which of these situations is an example of pollutants?",
+        "cands": [
+            "plastic bags floating in the ocean",
+            "mallard ducks floating on a lake",
+            "cottonwood seeds floating in the air",
+            "cirrus clouds floating in the sky"
+        ],
+        "answer": "plastic bags floating in the ocean"
+    },
+    {
+        "query": "Human reproduction requires",
+        "cands": [
+            "eggs with shells",
+            "nest incubation",
+            "a nest",
+            "a womb"
+        ],
+        "answer": "a womb"
+    },
+    {
+        "query": "Thermometers",
+        "cands": [
+            "can help you monitor a fever",
+            "indicate levels of mercury in the blood",
+            "read exactly at 98.6 degrees",
+            "are used only for babies"
+        ],
+        "answer": "can help you monitor a fever"
+    },
+    {
+        "query": "if the earth was a living room, what can be done to melt the glaciers?",
+        "cands": [
+            "someone would turn up the room heater",
+            "someone would turn up the air conditioner",
+            "someone would turn up the music",
+            "someone would turn on the light"
+        ],
+        "answer": "someone would turn up the room heater"
+    },
+    {
+        "query": "What would happen when balloons heat up?",
+        "cands": [
+            "they get bigger",
+            "they get smaller",
+            "nothing happens",
+            "they fall down"
+        ],
+        "answer": "they get bigger"
+    },
+    {
+        "query": "A balloon is filled with helium for a party. After the party, the balloons are left in the living room, where a fireplace is heating the room. The balloons",
+        "cands": [
+            "expand",
+            "melt",
+            "shrink",
+            "fall"
+        ],
+        "answer": "expand"
+    },
+    {
+        "query": "Seals are most likely to be found in what type of environment?",
+        "cands": [
+            "desert",
+            "arctic",
+            "Mediterranean",
+            "tropical"
+        ],
+        "answer": "arctic"
+    },
+    {
+        "query": "When the eggs hatch, the offspring are",
+        "cands": [
+            "killed",
+            "hurt",
+            "born",
+            "cold"
+        ],
+        "answer": "born"
+    },
+    {
+        "query": "Some berries may be eaten by",
+        "cands": [
+            "a bear or person",
+            "a bear or shark",
+            "a bear or lion",
+            "a bear or wolf"
+        ],
+        "answer": "a bear or person"
+    },
+    {
+        "query": "A person has a chance to experience an equinox",
+        "cands": [
+            "weekly",
+            "monthly",
+            "annually",
+            "biannually"
+        ],
+        "answer": "biannually"
+    },
+    {
+        "query": "Overpopulation of an organism can",
+        "cands": [
+            "strain the resources of an ecosystem",
+            "cause boundless growth of resources",
+            "lead to extinction of the organism",
+            "cause the ecosystem to flourish"
+        ],
+        "answer": "strain the resources of an ecosystem"
+    },
+    {
+        "query": "To improve health, what is a good strategy?",
+        "cands": [
+            "high risk lifestyle",
+            "restaurant food",
+            "business trip",
+            "a spa trip"
+        ],
+        "answer": "a spa trip"
+    },
+    {
+        "query": "A girl and her mom have the same",
+        "cands": [
+            "date of birth",
+            "shirt",
+            "number of toenails",
+            "hair length"
+        ],
+        "answer": "number of toenails"
+    },
+    {
+        "query": "The transportation with the most mass is likely a",
+        "cands": [
+            "commercial plane",
+            "private plane",
+            "bus",
+            "private car"
+        ],
+        "answer": "commercial plane"
+    },
+    {
+        "query": "A rabbit may enjoy",
+        "cands": [
+            "meat",
+            "compost",
+            "peas",
+            "pebbles"
+        ],
+        "answer": "peas"
+    },
+    {
+        "query": "A construction group wants to put a shopping center in town, but the only place available is a small nature park with a trail. Deer and other wildlife frequent the park, since it is the only place in the city where trees and fresh water are available for them. The construction group decides to build the shopping center, which means that",
+        "cands": [
+            "the deer are moved to a zoo",
+            "the trail is expanded",
+            "the mall has a nature park in it",
+            "the wildlife environment is destroyed"
+        ],
+        "answer": "the wildlife environment is destroyed"
+    },
+    {
+        "query": "Owls are likely to hunt at",
+        "cands": [
+            "3pm",
+            "2am",
+            "6pm",
+            "7am"
+        ],
+        "answer": "2am"
+    },
+    {
+        "query": "What could be a positive aspect of a tree being cut down?",
+        "cands": [
+            "the plants that were under the tree will have access to more light",
+            "the squirrels that were in that tree will have an easier time getting to their home",
+            "Plants under the tree will get cooled off by the shade",
+            "The sun will shine brighter than before"
+        ],
+        "answer": "the plants that were under the tree will have access to more light"
+    },
+    {
+        "query": "Birds carrying away fruit helps the tree",
+        "cands": [
+            "grow",
+            "fertilize",
+            "reproduce",
+            "conquer"
+        ],
+        "answer": "reproduce"
+    },
+    {
+        "query": "If a UFO is flying overhead and looks small, then large, then",
+        "cands": [
+            "the UFO is calling",
+            "the UFO had been close",
+            "the UFO is approaching",
+            "the UFO is leaving"
+        ],
+        "answer": "the UFO is approaching"
+    },
+    {
+        "query": "Inherited behavior is exhibited when",
+        "cands": [
+            "bears take a long winter sleep",
+            "dogs sit on command",
+            "seals clap for their trainers",
+            "rats navigate thru a maze"
+        ],
+        "answer": "bears take a long winter sleep"
+    },
+    {
+        "query": "What likely explains deforestation?",
+        "cands": [
+            "Increased insect populations",
+            "Clearing for farming",
+            "reduction in rainfall",
+            "More carbon dioxide"
+        ],
+        "answer": "Clearing for farming"
+    },
+    {
+        "query": "Mosquitoes enjoy all the people at a BBQ in the summer for what reason?",
+        "cands": [
+            "steak",
+            "blood",
+            "nice weather",
+            "taking food"
+        ],
+        "answer": "blood"
+    },
+    {
+        "query": "The surface of the moon contains",
+        "cands": [
+            "dogs",
+            "water",
+            "high peaks",
+            "humans"
+        ],
+        "answer": "high peaks"
+    },
+    {
+        "query": "A tool used to identify the percent chance of a trait being passed down has at least",
+        "cands": [
+            "four boxes",
+            "eight boxes",
+            "two boxes",
+            "six boxes"
+        ],
+        "answer": "four boxes"
+    },
+    {
+        "query": "A prisoner is kept in a stone room, unable to see the sun. The prisoner knows that he needs vitamin D to survive, so he",
+        "cands": [
+            "asks for milk",
+            "asks for television",
+            "asks for water",
+            "asks for sleep"
+        ],
+        "answer": "asks for milk"
+    },
+    {
+        "query": "When trying to pull a rose out of the ground why do you encounter resistance?",
+        "cands": [
+            "roots",
+            "tensile strength",
+            "plant temperature",
+            "plant color"
+        ],
+        "answer": "roots"
+    },
+    {
+        "query": "A bat flew through the sky without hitting anything due to which of these?",
+        "cands": [
+            "rainy sky to fly in",
+            "fast truck to drive",
+            "a car with gasoline",
+            "surfaces to reflect sound off"
+        ],
+        "answer": "surfaces to reflect sound off"
+    },
+    {
+        "query": "How can we see that the coloration of fur is an inherited characteristic?",
+        "cands": [
+            "puppies have soft fur",
+            "kittens look like their parents",
+            "all mammals are born with fur",
+            "baby rats are mostly bald"
+        ],
+        "answer": "kittens look like their parents"
+    },
+    {
+        "query": "Decaying vegetation is part of the process that",
+        "cands": [
+            "enables nuclear power to function",
+            "enables to emitting of light beams",
+            "enables gas powered motors to operate",
+            "enables windmills to power electric grids"
+        ],
+        "answer": "enables gas powered motors to operate"
+    },
+    {
+        "query": "After a torrential downpour over a week, a man notices that the pond in his backyard is",
+        "cands": [
+            "melted",
+            "dehydrated",
+            "bloated",
+            "salted"
+        ],
+        "answer": "bloated"
+    },
+    {
+        "query": "The amount of friction and the speed of an object have what kind of relationship?",
+        "cands": [
+            "inverse",
+            "reverse",
+            "direct",
+            "equal"
+        ],
+        "answer": "inverse"
+    },
+    {
+        "query": "A fallen leaf",
+        "cands": [
+            "will turn into a tree",
+            "will become bright green",
+            "will begin to recycle the nutrients that made up its structure",
+            "is likely to continue to grow"
+        ],
+        "answer": "will begin to recycle the nutrients that made up its structure"
+    },
+    {
+        "query": "Over a period of time the weather can change",
+        "cands": [
+            "The color of my hair",
+            "The way I walk",
+            "The size of a statue",
+            "The sound a computer makes"
+        ],
+        "answer": "The size of a statue"
+    },
+    {
+        "query": "Plant growth may cause",
+        "cands": [
+            "an uptick in the number of leaves",
+            "a surge in leaf disease",
+            "a gradual decrease in leaves",
+            "a rapid decline of the leaves"
+        ],
+        "answer": "an uptick in the number of leaves"
+    },
+    {
+        "query": "The man's heart skipped a beat and he felt pain after touching which of these?",
+        "cands": [
+            "ice cube",
+            "water",
+            "electrical transformer",
+            "grass"
+        ],
+        "answer": "electrical transformer"
+    },
+    {
+        "query": "Which substance is capable of dripping?",
+        "cands": [
+            "Oxygen",
+            "Juice",
+            "Wood",
+            "Lightning"
+        ],
+        "answer": "Juice"
+    },
+    {
+        "query": "If bacon is left too long on a hot stove top",
+        "cands": [
+            "it will be cooked perfectly",
+            "it will be bacteria laden",
+            "it will become blackened",
+            "it will be left raw"
+        ],
+        "answer": "it will become blackened"
+    },
+    {
+        "query": "the dashboard reading in a jaguar would likely be set to which of these?",
+        "cands": [
+            "set to calories",
+            "set to volume",
+            "set to kilometers",
+            "set to width"
+        ],
+        "answer": "set to kilometers"
+    },
+    {
+        "query": "are explosions safe?",
+        "cands": [
+            "they could harm living things",
+            "they are very safe",
+            "they cause nothing serious",
+            "none of these"
+        ],
+        "answer": "they could harm living things"
+    },
+    {
+        "query": "The lowest temperature on the trip was at",
+        "cands": [
+            "the mountain pass",
+            "the plain",
+            "the large hill",
+            "the canyon"
+        ],
+        "answer": "the mountain pass"
+    },
+    {
+        "query": "What is the benefit to using a frosted window film over a non treated windows?",
+        "cands": [
+            "they are easier to make",
+            "they let in less light",
+            "they are cheaper to produce",
+            "they are much stronger"
+        ],
+        "answer": "they let in less light"
+    },
+    {
+        "query": "Ocean water contains",
+        "cands": [
+            "copious amounts of seltzer",
+            "scant amounts of sodium chloride",
+            "scant amounts of carbonation",
+            "copious amounts of the combination of Na and Cl"
+        ],
+        "answer": "copious amounts of the combination of Na and Cl"
+    },
+    {
+        "query": "A cheetah that runs all day will find it has lost a lot of",
+        "cands": [
+            "blood",
+            "water",
+            "prey",
+            "spots"
+        ],
+        "answer": "water"
+    },
+    {
+        "query": "Beak shape can influence a bird's ability",
+        "cands": [
+            "to give birth to live young",
+            "to mate with it's partner",
+            "to fly to warmer climates",
+            "to chew up certain worms"
+        ],
+        "answer": "to chew up certain worms"
+    },
+    {
+        "query": "Some blind people have demonstrated bat-like skills by:",
+        "cands": [
+            "sensing shapes by light and shadows",
+            "having a unusually strong sense of smell",
+            "sensing nearby objects by temperature change",
+            "using sound to 'see'"
+        ],
+        "answer": "using sound to 'see'"
+    },
+    {
+        "query": "December 21st through March 20 is a three month period which is an example of what?",
+        "cands": [
+            "A session",
+            "A Match",
+            "A Season",
+            "Autumn"
+        ],
+        "answer": "A Season"
+    },
+    {
+        "query": "Seeds provide new plants with",
+        "cands": [
+            "life sustaining elements",
+            "essentials for photosynthesis",
+            "water and hydrogen",
+            "storage for roots"
+        ],
+        "answer": "life sustaining elements"
+    },
+    {
+        "query": "What is a more comfortable color to have for your automobile upholstery if living in a desert?",
+        "cands": [
+            "ecru",
+            "red",
+            "black",
+            "navy"
+        ],
+        "answer": "ecru"
+    },
+    {
+        "query": "The salamander could eat a large amounts of what?",
+        "cands": [
+            "fettuccine if left around",
+            "waxy leaves from certain plants",
+            "dead carcass meat from livestock",
+            "six legged winged organisms"
+        ],
+        "answer": "six legged winged organisms"
+    },
+    {
+        "query": "A person can see",
+        "cands": [
+            "a radio recording",
+            "an emotion",
+            "a written message",
+            "an abstract idea"
+        ],
+        "answer": "a written message"
+    },
+    {
+        "query": "When looking for good soil for plants, typically what is optimal?",
+        "cands": [
+            "malleable and nutritious",
+            "dry and sandy",
+            "grainy and bitter",
+            "compact and hard"
+        ],
+        "answer": "malleable and nutritious"
+    },
+    {
+        "query": "Animals are drawn to",
+        "cands": [
+            "gold",
+            "houses",
+            "feeders",
+            "Carbon Dioxide"
+        ],
+        "answer": "feeders"
+    },
+    {
+        "query": "Squirrels spend their fall",
+        "cands": [
+            "looking for pretty leaves to collect",
+            "stockpiling rocks for fighting in the winter",
+            "stockpiling pecans for the frigid months",
+            "collecting twigs to keep warm"
+        ],
+        "answer": "stockpiling pecans for the frigid months"
+    },
+    {
+        "query": "Rainbows are always found after what?",
+        "cands": [
+            "A fire",
+            "A tornado",
+            "Rainfall",
+            "Cereal"
+        ],
+        "answer": "Rainfall"
+    },
+    {
+        "query": "Crop rotation has a positive impact on what?",
+        "cands": [
+            "government mentality",
+            "dirt quality",
+            "town economies",
+            "crop watering"
+        ],
+        "answer": "dirt quality"
+    },
+    {
+        "query": "the best method for detecting texture is",
+        "cands": [
+            "rubbing it",
+            "seeing it",
+            "hearing it",
+            "tasting it"
+        ],
+        "answer": "rubbing it"
+    },
+    {
+        "query": "Cold-blooded animals are often",
+        "cands": [
+            "fast",
+            "large",
+            "hairless",
+            "slow"
+        ],
+        "answer": "hairless"
+    },
+    {
+        "query": "Grey clouds can bring",
+        "cands": [
+            "sunlight",
+            "falling water molecules",
+            "blooming flowers",
+            "drought conditions"
+        ],
+        "answer": "falling water molecules"
+    },
+    {
+        "query": "Which animal is considered a predator?",
+        "cands": [
+            "ant",
+            "snake",
+            "elephant",
+            "giraffe"
+        ],
+        "answer": "snake"
+    },
+    {
+        "query": "Pollinators",
+        "cands": [
+            "enable plants to continue flourishing",
+            "play an unimportant role in the reproduction process",
+            "are useless to plants",
+            "are considered unwanted pests"
+        ],
+        "answer": "enable plants to continue flourishing"
+    },
+    {
+        "query": "A farmer harvests seeds from some plants, such as tomatoes, in order to plant them later on. These seeds, once planted",
+        "cands": [
+            "have their own dirt",
+            "have their own sunlight",
+            "have a lot of sand",
+            "contain their necessary nutrition"
+        ],
+        "answer": "contain their necessary nutrition"
+    },
+    {
+        "query": "What type of characteristics are people not born with?",
+        "cands": [
+            "genetics",
+            "skills",
+            "physical attributes",
+            "height"
+        ],
+        "answer": "skills"
+    },
+    {
+        "query": "A spinning object is used to make",
+        "cands": [
+            "steam",
+            "heat",
+            "water",
+            "electricity"
+        ],
+        "answer": "electricity"
+    },
+    {
+        "query": "One of the negative consequences of offshore oil platforms is",
+        "cands": [
+            "evaporation of the surrounding water",
+            "discharge of liquid petroleum in the surrounding sea",
+            "improvement in the conditions of sea life",
+            "increase in the birthrate of sea birds"
+        ],
+        "answer": "discharge of liquid petroleum in the surrounding sea"
+    },
+    {
+        "query": "The unit of measure derived from French word millilitre is a unit used for measuring volume generally used for values between 1 and",
+        "cands": [
+            "1000",
+            "250",
+            "5000",
+            "300"
+        ],
+        "answer": "1000"
+    },
+    {
+        "query": "A man's child runs through the yard in the sprinklers, getting mud all over their feet. The child then runs around on the porch, tracking mud everywhere. While the mud is still wet, the man decides to clean off the porch by",
+        "cands": [
+            "getting a new child",
+            "yelling at the mud",
+            "asking the child to stop",
+            "turning on the hose"
+        ],
+        "answer": "turning on the hose"
+    },
+    {
+        "query": "Earthquakes",
+        "cands": [
+            "only happen in California",
+            "cause solar and lunar eclipses",
+            "will break your vases",
+            "make bridges much safer"
+        ],
+        "answer": "will break your vases"
+    },
+    {
+        "query": "A seismograph can accurately describe",
+        "cands": [
+            "how rough the footing will be",
+            "how bad the weather will be",
+            "how stable the ground will be",
+            "how shaky the horse will be"
+        ],
+        "answer": "how stable the ground will be"
+    },
+    {
+        "query": "Light from further away may appear to be less bright than other, closer sources, such as in which instance?",
+        "cands": [
+            "the sun is always bright",
+            "the moon is brighter than stars",
+            "the moon is brighter than a floodlight",
+            "the sun is darker than the moon"
+        ],
+        "answer": "the moon is brighter than stars"
+    },
+    {
+        "query": "A plant needs a specific climate to grow and",
+        "cands": [
+            "wither",
+            "persist",
+            "die",
+            "decay"
+        ],
+        "answer": "persist"
+    },
+    {
+        "query": "Banging on a drum causes",
+        "cands": [
+            "music to be loud",
+            "music to be appealing",
+            "reverberations to strike the eardrum",
+            "concerts to sell out"
+        ],
+        "answer": "reverberations to strike the eardrum"
+    },
+    {
+        "query": "What may have been formed by a volcano?",
+        "cands": [
+            "Mt. McKinley",
+            "Lake Pontchartrain",
+            "The great lakes",
+            "Niagara Falls"
+        ],
+        "answer": "Mt. McKinley"
+    },
+    {
+        "query": "Humans, cats, dogs, and elephants are known as mammals because their kids are born alive. Non-mammalian babies are born",
+        "cands": [
+            "old",
+            "dead",
+            "in an egg",
+            "big"
+        ],
+        "answer": "in an egg"
+    },
+    {
+        "query": "Wind can cause",
+        "cands": [
+            "basements to flood due to weather",
+            "small birds to kill large birds",
+            "waterfalls to flow backwards",
+            "stones to weather down to pebbles"
+        ],
+        "answer": "stones to weather down to pebbles"
+    },
+    {
+        "query": "Inherited characteristics",
+        "cands": [
+            "include mice being able to navigate a maze",
+            "include learning to sit on command",
+            "include dolphins doing tricks for their trainers",
+            "include spots on a ladybug"
+        ],
+        "answer": "include spots on a ladybug"
+    },
+    {
+        "query": "How could we determine approximately how far a bird is from the ground?",
+        "cands": [
+            "Measure the altitude of the bird using a reference point, such as a tall building.",
+            "Identify the species of bird",
+            "Ask the bird how high it was when it returns back to earth",
+            "Measure the bird's mass"
+        ],
+        "answer": "Measure the altitude of the bird using a reference point, such as a tall building."
+    },
+    {
+        "query": "Endangered pandas are sometimes",
+        "cands": [
+            "accidentally dropped into volcanoes",
+            "confined to enclosures to be viewed by the public",
+            "found eating corn in the middle of North America",
+            "made into delicious rare steaks"
+        ],
+        "answer": "confined to enclosures to be viewed by the public"
+    },
+    {
+        "query": "Algae can be found in",
+        "cands": [
+            "reservoir",
+            "meat",
+            "street",
+            "tree"
+        ],
+        "answer": "reservoir"
+    },
+    {
+        "query": "A toaster converts electrical energy into heat energy for toasting much like",
+        "cands": [
+            "a campfire toasts bread",
+            "a microwave heats soup",
+            "a fire burns paper",
+            "a small oven works"
+        ],
+        "answer": "a small oven works"
+    },
+    {
+        "query": "An octopus, when in danger and unable to swim to safety, may find itself",
+        "cands": [
+            "mimicking other things",
+            "melting into sand",
+            "creating new homes",
+            "mocking other fish"
+        ],
+        "answer": "mimicking other things"
+    },
+    {
+        "query": "What does someone do when creating music?",
+        "cands": [
+            "hit a toy baseball with a bat",
+            "shake a baby rattle with your hand",
+            "bang the wall with your fist",
+            "pluck the strings of a fingerboard with your fingers"
+        ],
+        "answer": "pluck the strings of a fingerboard with your fingers"
+    },
+    {
+        "query": "The pull the human planet space rock orbiter has on certain bodies of dihydrogen monooxide results in?",
+        "cands": [
+            "telescope views",
+            "water level fluctuations",
+            "animal",
+            "plant harvesting"
+        ],
+        "answer": "water level fluctuations"
+    },
+    {
+        "query": "Since density = mass / volume, denser liquids such as water sink more than",
+        "cands": [
+            "baby oil",
+            "corn syrup or",
+            "milk",
+            "honey"
+        ],
+        "answer": "baby oil"
+    },
+    {
+        "query": "Photosynthesis can be performed by",
+        "cands": [
+            "a cabbage cell",
+            "a bee cell",
+            "a bear cell",
+            "a cat cell"
+        ],
+        "answer": "a cabbage cell"
+    },
+    {
+        "query": "The force exerted on an object and distance traveled have what kind of relationship?",
+        "cands": [
+            "reverse",
+            "inverse",
+            "equal",
+            "direct"
+        ],
+        "answer": "direct"
+    },
+    {
+        "query": "all cells use cellular respiration to",
+        "cands": [
+            "photosynthesize",
+            "release waste",
+            "perform meiosis",
+            "release energy"
+        ],
+        "answer": "release waste"
+    },
+    {
+        "query": "The viewing oriented sensor of a prairie creature are for what?",
+        "cands": [
+            "reproductive purposes",
+            "viewing sounds",
+            "sensing views",
+            "sensing tastes"
+        ],
+        "answer": "sensing views"
+    },
+    {
+        "query": "A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is",
+        "cands": [
+            "breaks for birds on the road",
+            "given a large breakfast",
+            "eats a few corn cobs",
+            "given two apples to watch"
+        ],
+        "answer": "given a large breakfast"
+    },
+    {
+        "query": "A woman sells bracelets that she makes. The bracelets gain popularity, and the woman makes incredibly large amounts of money from the sales. After a while, very few people are still buying the bracelets, so",
+        "cands": [
+            "the woman makes more money",
+            "the woman makes the same amount of money",
+            "the woman spends more money",
+            "the woman makes less money"
+        ],
+        "answer": "the woman makes less money"
+    },
+    {
+        "query": "A desert environment is",
+        "cands": [
+            "dry, grass covered, and humid",
+            "lush, green, and tropical",
+            "arid, parched, and sun-baked",
+            "dry, damp, and lush"
+        ],
+        "answer": "arid, parched, and sun-baked"
+    },
+    {
+        "query": "Seasons are caused by what rotating on its axis?",
+        "cands": [
+            "Our Planet",
+            "The Atmosphere",
+            "The Equator",
+            "The Sun"
+        ],
+        "answer": "Our Planet"
+    },
+    {
+        "query": "Which is best an letting electricity pass through?",
+        "cands": [
+            "tile flooring",
+            "human flesh",
+            "hockey stick",
+            "a steak knife"
+        ],
+        "answer": "a steak knife"
+    },
+    {
+        "query": "Asteroids crashing on planets can leave behind",
+        "cands": [
+            "large, bowl-shaped cavities in the ground",
+            "aliens and foreign foods",
+            "small dents in the planet's core",
+            "lakes filled with salty water"
+        ],
+        "answer": "large, bowl-shaped cavities in the ground"
+    },
+    {
+        "query": "What is the formula of the substance which best helps plants grow",
+        "cands": [
+            "NH4",
+            "C4H4",
+            "CO2",
+            "H2O"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "query": "You can experience a change of pressure when",
+        "cands": [
+            "Yelling really loud",
+            "Soaring the skies",
+            "Going walking",
+            "riding a bike"
+        ],
+        "answer": "Soaring the skies"
+    },
+    {
+        "query": "A small creek absorbing heat energy can result in",
+        "cands": [
+            "the creek water getting colder",
+            "a parched creek bed",
+            "tributaries branching off from the creek",
+            "a runoff of extra water"
+        ],
+        "answer": "a parched creek bed"
+    },
+    {
+        "query": "Summertime  happens during June in all but which location?",
+        "cands": [
+            "Australia",
+            "in Canada",
+            "United States",
+            "Europe"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "query": "It takes more water to fill a bathtub than a",
+        "cands": [
+            "lake",
+            "pool",
+            "stomach",
+            "holding tank"
+        ],
+        "answer": "stomach"
+    },
+    {
+        "query": "The eighth month of the year is winter in",
+        "cands": [
+            "Brazil",
+            "Indiana",
+            "London",
+            "Canada"
+        ],
+        "answer": "Brazil"
+    },
+    {
+        "query": "birds use their peckers to catch",
+        "cands": [
+            "dogs",
+            "a tan",
+            "a ball",
+            "bees"
+        ],
+        "answer": "bees"
+    },
+    {
+        "query": "transplanting seedling oaks has a positive impact on",
+        "cands": [
+            "fuel costs",
+            "the economy",
+            "housing value",
+            "the environment"
+        ],
+        "answer": "the environment"
+    },
+    {
+        "query": "What is an example of hunting?",
+        "cands": [
+            "humans throwing a spear through an animal",
+            "humans chewing on boiled animal muscles",
+            "humans gathering animals in a gate",
+            "humans plucking fruit from a tree"
+        ],
+        "answer": "humans throwing a spear through an animal"
+    },
+    {
+        "query": "Which of these has shape that changes depending on the container which it resides within?",
+        "cands": [
+            "paper",
+            "wood",
+            "stone",
+            "orange juice"
+        ],
+        "answer": "orange juice"
+    },
+    {
+        "query": "What would be the flavor if you ate the item that fell and is thought to have hit Sir Issac Newton's head",
+        "cands": [
+            "Sweet",
+            "Salty",
+            "bitter",
+            "sour"
+        ],
+        "answer": "Sweet"
+    },
+    {
+        "query": "Earth's four layers are comprised mainly of",
+        "cands": [
+            "stone",
+            "bacteria",
+            "water",
+            "air"
+        ],
+        "answer": "stone"
+    },
+    {
+        "query": "if coffee sits in the fridge and loses its liquid form, what is that point known as?",
+        "cands": [
+            "the freezing point",
+            "the prime point",
+            "the boiling point",
+            "the melting point"
+        ],
+        "answer": "the freezing point"
+    },
+    {
+        "query": "Mammals give birth to live",
+        "cands": [
+            "children",
+            "birds",
+            "fish",
+            "insects"
+        ],
+        "answer": "children"
+    },
+    {
+        "query": "If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet?",
+        "cands": [
+            "it loses its magnetization",
+            "it loses its charge",
+            "it may become magnetized",
+            "it gains a charge"
+        ],
+        "answer": "it may become magnetized"
+    },
+    {
+        "query": "Which of these is a factor in the shape of a fern's seed?",
+        "cands": [
+            "luck",
+            "humans",
+            "gold",
+            "inheritance"
+        ],
+        "answer": "inheritance"
+    },
+    {
+        "query": "Which is recyclable?",
+        "cands": [
+            "An Elephant",
+            "A school notebook",
+            "A boat",
+            "A lake"
+        ],
+        "answer": "A school notebook"
+    },
+    {
+        "query": "if the population in a habitat is on a steady decline, what condition is the habitat?",
+        "cands": [
+            "it is a place to emigrate from",
+            "it is an ideal habitat",
+            "it is an unsustainable habitat",
+            "it is a thriving abode"
+        ],
+        "answer": "it is an unsustainable habitat"
+    },
+    {
+        "query": "A teacher wants to show how to combine two substances together. The two things that he can use in order to mix them completely are",
+        "cands": [
+            "water and soda",
+            "water and oil",
+            "sand and rocks",
+            "salt and bark"
+        ],
+        "answer": "water and soda"
+    },
+    {
+        "query": "Medicine is used to cure but can cause people to have allergic reactions such as",
+        "cands": [
+            "spider bites",
+            "vomiting",
+            "placebo effect",
+            "dance fever"
+        ],
+        "answer": "vomiting"
+    },
+    {
+        "query": "Lightning may lead to",
+        "cands": [
+            "damage to local foliage",
+            "rainbows across the sky",
+            "growth of local flora",
+            "firefighters getting the night off"
+        ],
+        "answer": "damage to local foliage"
+    },
+    {
+        "query": "When would a nocturnal predator most likely hunt?",
+        "cands": [
+            "5 p.m.",
+            "12 p.m.",
+            "3 a.m.",
+            "10 a.m."
+        ],
+        "answer": "3 a.m."
+    },
+    {
+        "query": "Where water be located in its gas form?",
+        "cands": [
+            "inside a disc golf driver",
+            "inside of a brass pipe",
+            "a mile up in the sky",
+            "inside a leather baseball"
+        ],
+        "answer": "a mile up in the sky"
+    },
+    {
+        "query": "Green parts of a life form absorb",
+        "cands": [
+            "carbon dioxide",
+            "light",
+            "oxygen",
+            "water"
+        ],
+        "answer": "light"
+    },
+    {
+        "query": "If a new species of predator joins a community",
+        "cands": [
+            "the new species will become herbivores",
+            "prey will experience an increase in population",
+            "prey will experience a drop in population",
+            "the old species will die out"
+        ],
+        "answer": "prey will experience a drop in population"
+    },
+    {
+        "query": "Why would a perennial plant with an elongated stem a frequently used for lumber fall to the ground?",
+        "cands": [
+            "It's dead",
+            "For water",
+            "For food",
+            "For sun"
+        ],
+        "answer": "It's dead"
+    },
+    {
+        "query": "I'm an animal with a white fur and a large fluffy tail that lives in arctic regions; what am I?",
+        "cands": [
+            "weasel",
+            "snow fox",
+            "wolf",
+            "polar bear"
+        ],
+        "answer": "snow fox"
+    },
+    {
+        "query": "Dairy is a source of",
+        "cands": [
+            "a vitamin that prevents blood loss",
+            "a vitamin that treats amino acid deficiency",
+            "a group of fat-soluble secosteroids",
+            "a vitamin that helps treat liver problems"
+        ],
+        "answer": "a group of fat-soluble secosteroids"
+    },
+    {
+        "query": "Atomic 26 is drawn to a device, it could be",
+        "cands": [
+            "magnetized",
+            "Na",
+            "compass",
+            "K"
+        ],
+        "answer": "magnetized"
+    },
+    {
+        "query": "why do tadpoles change into frogs?",
+        "cands": [
+            "tadpoles change to different animals",
+            "tadpoles are really just fish",
+            "they are young frogs still growing",
+            "none of these"
+        ],
+        "answer": "they are young frogs still growing"
+    },
+    {
+        "query": "What do cows eat?",
+        "cands": [
+            "Chickpeas",
+            "Chocolate",
+            "Steak",
+            "Poultry"
+        ],
+        "answer": "Chickpeas"
+    },
+    {
+        "query": "Which object conducts electricity?",
+        "cands": [
+            "Window",
+            "Rubik's Cube",
+            "Ship Anchor",
+            "Boulder"
+        ],
+        "answer": "Ship Anchor"
+    },
+    {
+        "query": "Glucose travels",
+        "cands": [
+            "from roots to leaves of a daffodil",
+            "from a rose's leaves to the atmosphere",
+            "from a daisy's leaves into it's underground support system",
+            "from the sun to a sunflower's buds"
+        ],
+        "answer": "from a daisy's leaves into it's underground support system"
+    },
+    {
+        "query": "Evaporation",
+        "cands": [
+            "only happens in the summer",
+            "is like nature's disappearing water trick",
+            "is caused by snow",
+            "involves the disappearance of sunlight"
+        ],
+        "answer": "is like nature's disappearing water trick"
+    },
+    {
+        "query": "In order for crops to grow food safely, pesticides are used on them. When it floods, this causes t he what to be poisonous?",
+        "cands": [
+            "air",
+            "Corn",
+            "Runoff",
+            "farmers"
+        ],
+        "answer": "Runoff"
+    },
+    {
+        "query": "The boy was able to warm the fireplace without a lighter thanks to what?",
+        "cands": [
+            "friction",
+            "metal",
+            "wishing",
+            "magic"
+        ],
+        "answer": "friction"
+    },
+    {
+        "query": "Where would a duck like to live?",
+        "cands": [
+            "the Sahara",
+            "Antarctica",
+            "the Appalachian mountains",
+            "Death Valley"
+        ],
+        "answer": "the Appalachian mountains"
+    },
+    {
+        "query": "What do tuna eat?",
+        "cands": [
+            "Atlantic menhaden",
+            "Swedish fish",
+            "gummy fish",
+            "laminariales"
+        ],
+        "answer": "Atlantic menhaden"
+    },
+    {
+        "query": "A woman notices that she is depressed every autumn, and wonders why. A friend suggests to her that perhaps certain changes that take place as seasons move from warm to cold may be having an effect on her. When pressed for an example of these changes, the friend cites",
+        "cands": [
+            "flowers blooming",
+            "grass turning brown",
+            "trees growing",
+            "blossoms blooming"
+        ],
+        "answer": "grass turning brown"
+    },
+    {
+        "query": "is it normal for an adult animal to lay eggs?",
+        "cands": [
+            "it has never happened",
+            "yes it is standard",
+            "it is abnormal and weird",
+            "all of these"
+        ],
+        "answer": "yes it is standard"
+    },
+    {
+        "query": "If your dog is overweight",
+        "cands": [
+            "add more fat to their diet",
+            "cut back their caloric intake",
+            "let them sleep more",
+            "increase their caloric intake"
+        ],
+        "answer": "cut back their caloric intake"
+    },
+    {
+        "query": "Eyes allow humans",
+        "cands": [
+            "to detect when a traffic light changes",
+            "detect sour flavors in candy",
+            "hear music at concerts",
+            "detect acrid odors in the air"
+        ],
+        "answer": "to detect when a traffic light changes"
+    },
+    {
+        "query": "Organisms covered by layers of sediment",
+        "cands": [
+            "become fossils over night",
+            "may end up reanimated over time",
+            "develop characteristics for survival",
+            "may end up fueling a car"
+        ],
+        "answer": "may end up fueling a car"
+    },
+    {
+        "query": "The winter solstice is on December 21st in the",
+        "cands": [
+            "counties",
+            "north of equator",
+            "states",
+            "southern hemisphere"
+        ],
+        "answer": "north of equator"
+    },
+    {
+        "query": "A lake environment is a good setup for what to happen to organic remains?",
+        "cands": [
+            "bleaching",
+            "burning",
+            "fossilization",
+            "drying"
+        ],
+        "answer": "fossilization"
+    },
+    {
+        "query": "were there fossil fuels in the ground when humans evolved?",
+        "cands": [
+            "this was only created by humans",
+            "humans predate fossil fuel formation",
+            "significant supplies accumulated prior",
+            "none of these"
+        ],
+        "answer": "significant supplies accumulated prior"
+    },
+    {
+        "query": "The Grand Canyon is massive, with large, high peaks and very deep lows, which was formed when",
+        "cands": [
+            "some water is around it",
+            "water rained on it",
+            "natural waters weathered it",
+            "a pool was opened"
+        ],
+        "answer": "natural waters weathered it"
+    },
+    {
+        "query": "What type of useful product can be made from the moving winds?",
+        "cands": [
+            "wood",
+            "bananas",
+            "electricity",
+            "metal"
+        ],
+        "answer": "electricity"
+    },
+    {
+        "query": "The sides of the canyon are",
+        "cands": [
+            "metal",
+            "water",
+            "rivers",
+            "stone"
+        ],
+        "answer": "stone"
+    },
+    {
+        "query": "which of these people would have the worst air quality at their residence?",
+        "cands": [
+            "a man who lives next to a landfill",
+            "a man who lives in a city with the best air quality",
+            "none of these",
+            "a man who lives in a great suburb"
+        ],
+        "answer": "a man who lives next to a landfill"
+    },
+    {
+        "query": "What is a stopwatch used for?",
+        "cands": [
+            "to rewind 5 minutes",
+            "to tell what will happen 5 minutes from now",
+            "to voice the time",
+            "to measure minutes and hours"
+        ],
+        "answer": "to measure minutes and hours"
+    },
+    {
+        "query": "As a drought worsens the level at an aquifer will",
+        "cands": [
+            "stay the same",
+            "fluctuate wildly",
+            "decrease",
+            "increase"
+        ],
+        "answer": "decrease"
+    },
+    {
+        "query": "Wind frequently helps transport from one place to another",
+        "cands": [
+            "marble statues",
+            "molten magma",
+            "subterranean termites",
+            "exposed topsoil"
+        ],
+        "answer": "exposed topsoil"
+    },
+    {
+        "query": "When a kid slams on the brakes on their bike what is caused?",
+        "cands": [
+            "bike helmet",
+            "avoiding accidents",
+            "friction",
+            "gearing"
+        ],
+        "answer": "friction"
+    },
+    {
+        "query": "Sources of spices have",
+        "cands": [
+            "crystals",
+            "feathers",
+            "cell walls",
+            "craters"
+        ],
+        "answer": "cell walls"
+    },
+    {
+        "query": "Conservation",
+        "cands": [
+            "leads to longer drought of resources",
+            "leads to longer availability of resources",
+            "leads to more consumption",
+            "leads to short supply of resources"
+        ],
+        "answer": "leads to longer availability of resources"
+    },
+    {
+        "query": "A tree is not the habitat of a",
+        "cands": [
+            "squirrel",
+            "woodpecker",
+            "monkey",
+            "lion"
+        ],
+        "answer": "lion"
+    },
+    {
+        "query": "Erosion could lead to",
+        "cands": [
+            "a change in the direction of a stream",
+            "a change in ocean temperatures",
+            "an increase in rainy weather",
+            "an increase in plants and animals"
+        ],
+        "answer": "a change in the direction of a stream"
+    },
+    {
+        "query": "A hemisphere experiences summer when",
+        "cands": [
+            "it's tilted towards Jupiter",
+            "it's angled towards the moon",
+            "it's angled towards the largest star in the solar system",
+            "it spins counter clockwise on Earth's axis"
+        ],
+        "answer": "it's angled towards the largest star in the solar system"
+    },
+    {
+        "query": "What date is the amount of daylight minimized",
+        "cands": [
+            "Jul 4th",
+            "Feb 29th",
+            "May 3rd",
+            "Sep 1st"
+        ],
+        "answer": "Feb 29th"
+    },
+    {
+        "query": "Which term is involved with protection by skin?",
+        "cands": [
+            "Eucerin pH5 range",
+            "Sagittal plane",
+            "pyogenic vibrio",
+            "popliteus"
+        ],
+        "answer": "Eucerin pH5 range"
+    },
+    {
+        "query": "The reason Earth is so sturdy is because",
+        "cands": [
+            "It is made from rock",
+            "It eats three meals a day",
+            "It has a loving family",
+            "It is made from metal"
+        ],
+        "answer": "It is made from rock"
+    },
+    {
+        "query": "A plant left in the dark",
+        "cands": [
+            "produces fruit",
+            "grows faster",
+            "fails to grow",
+            "gets greener"
+        ],
+        "answer": "fails to grow"
+    },
+    {
+        "query": "A boy wants to use his Walkman so that he can listen to some music. When he tries to turn it on, it us unable to, and the boy realizes that he will need",
+        "cands": [
+            "heat",
+            "metal",
+            "lithium-ion",
+            "plastic"
+        ],
+        "answer": "lithium-ion"
+    },
+    {
+        "query": "Nuclear activity is the cause of what celestial occurrence?",
+        "cands": [
+            "axial planetary rotation",
+            "comets",
+            "planetary formation",
+            "the sun's rays"
+        ],
+        "answer": "the sun's rays"
+    },
+    {
+        "query": "Which source provides the safest water?",
+        "cands": [
+            "River",
+            "Sea",
+            "Ocean",
+            "Rain"
+        ],
+        "answer": "Rain"
+    },
+    {
+        "query": "A rabbit has a litter of bunnies! Most of the babies are white, just like the mother rabbit, but one baby has brown spots, like the father rabbit. The father rabbit",
+        "cands": [
+            "spread out some fur",
+            "has black on his ears",
+            "passed down inherited characteristics",
+            "is the same size as the mother"
+        ],
+        "answer": "passed down inherited characteristics"
+    },
+    {
+        "query": "Photosynthesis means plants are unable to",
+        "cands": [
+            "convert sunlight to sand",
+            "provide food sources for others",
+            "be producers in an ecosystem",
+            "make their own food"
+        ],
+        "answer": "convert sunlight to sand"
+    },
+    {
+        "query": "Through DNA, a rabbit will have long ears if",
+        "cands": [
+            "rabbits are born with ears",
+            "there was a lot of food",
+            "genetic contributors had long ears",
+            "parents were also rabbits"
+        ],
+        "answer": "genetic contributors had long ears"
+    },
+    {
+        "query": "There are various creatures that live in forests, such as",
+        "cands": [
+            "giant fish",
+            "enormous crabs",
+            "whitetails",
+            "desert jackals"
+        ],
+        "answer": "whitetails"
+    },
+    {
+        "query": "An octopus protects itself with",
+        "cands": [
+            "water splashing",
+            "running fast",
+            "long hands",
+            "pigment squirting"
+        ],
+        "answer": "pigment squirting"
+    },
+    {
+        "query": "Resources decreasing in an environment",
+        "cands": [
+            "induces organisms to use more of their resources",
+            "causes an increase in use of resources",
+            "causes an uptick in birthrate",
+            "induces organisms to be more economical with resources"
+        ],
+        "answer": "induces organisms to be more economical with resources"
+    },
+    {
+        "query": "The sidewalk next to a house having a crack in it and having vegetation growing from it is considered?",
+        "cands": [
+            "insects",
+            "weathering",
+            "lava",
+            "erosion"
+        ],
+        "answer": "weathering"
+    },
+    {
+        "query": "If you wanted to make a necklace, how long would you have to wait for the materials to appear inside the Earth?",
+        "cands": [
+            "millions of years",
+            "1 day",
+            "10 days",
+            "100 days"
+        ],
+        "answer": "millions of years"
+    },
+    {
+        "query": "Moon phases",
+        "cands": [
+            "change the moon into cheese",
+            "alter the way the moon's facade looks",
+            "change moon lakes into vapor",
+            "cause lunar eclipse every day"
+        ],
+        "answer": "alter the way the moon's facade looks"
+    },
+    {
+        "query": "If hot water were poured on an arm, what would happen to internal organs?",
+        "cands": [
+            "they would be scalded",
+            "organs would remain uneffected",
+            "they would begin to decay",
+            "they would experience pain"
+        ],
+        "answer": "organs would remain uneffected"
+    },
+    {
+        "query": "Barnyard bovines",
+        "cands": [
+            "eat organic chicken",
+            "eat eggs",
+            "eat beef",
+            "eat alfalfa hay"
+        ],
+        "answer": "eat alfalfa hay"
+    },
+    {
+        "query": "Desert environments features",
+        "cands": [
+            "tropical plants",
+            "tons of sun",
+            "massive rain totals",
+            "icy precipitation"
+        ],
+        "answer": "tons of sun"
+    },
+    {
+        "query": "a large cluster of humans, dogs, apple trees, atmosphere and more can be called",
+        "cands": [
+            "army of ants",
+            "a community",
+            "a toy store",
+            "a shopping mall"
+        ],
+        "answer": "a community"
+    },
+    {
+        "query": "A person is considering various organs, and is looking at which ones will be most muscular. A contender for most muscular is",
+        "cands": [
+            "the lungs",
+            "the kidney",
+            "the heart",
+            "the liver"
+        ],
+        "answer": "the heart"
+    },
+    {
+        "query": "Which pair don't reproduce the same way?",
+        "cands": [
+            "rabbit and hare",
+            "mule and hinny",
+            "cat and catfish",
+            "caterpillar and butterfly"
+        ],
+        "answer": "cat and catfish"
+    },
+    {
+        "query": "Which of the following is warm blooded?",
+        "cands": [
+            "toad",
+            "snake",
+            "turtle",
+            "skunk"
+        ],
+        "answer": "skunk"
+    },
+    {
+        "query": "A male bird spots a female of his species and begins a fancy dance, flashing his bright feathers around in the air, showing off. This male is attempting to procure",
+        "cands": [
+            "a manager",
+            "an agent",
+            "a meal",
+            "a reproductive companion"
+        ],
+        "answer": "a reproductive companion"
+    },
+    {
+        "query": "Vast quantities of metal can be obtained from",
+        "cands": [
+            "a quarry",
+            "concerts",
+            "forests",
+            "salt"
+        ],
+        "answer": "a quarry"
+    },
+    {
+        "query": "Roasting a turkey requires adding what type of energy",
+        "cands": [
+            "Heat",
+            "Kinetic",
+            "Magnetic",
+            "Chemical"
+        ],
+        "answer": "Heat"
+    },
+    {
+        "query": "Dry environments often",
+        "cands": [
+            "liberally use water for everything",
+            "allow plants to flourish",
+            "require people to move",
+            "institute rules about water usage"
+        ],
+        "answer": "institute rules about water usage"
+    },
+    {
+        "query": "Phloem moves things around a plant similar to how",
+        "cands": [
+            "blood moves in a body",
+            "leaves move in the wind",
+            "water moves in a system",
+            "cars move on a street"
+        ],
+        "answer": "blood moves in a body"
+    },
+    {
+        "query": "Where would a polar bear be most comfortable?",
+        "cands": [
+            "Arizona",
+            "Georgia",
+            "Florida",
+            "Nebraska"
+        ],
+        "answer": "Nebraska"
+    },
+    {
+        "query": "When a plane is in the sky and is several miles away, the light seen is barely visible, but when it is drawing near",
+        "cands": [
+            "light is far away",
+            "light is more easily seen",
+            "light is more distant",
+            "light is further away"
+        ],
+        "answer": "light is more easily seen"
+    },
+    {
+        "query": "Members of rock bands often perform with",
+        "cands": [
+            "flutes",
+            "sandals",
+            "earplugs",
+            "gloves"
+        ],
+        "answer": "earplugs"
+    },
+    {
+        "query": "Muscles move bones to produce movement like when",
+        "cands": [
+            "arms are resting",
+            "hair is growing",
+            "smiles are invisible",
+            "toes are wiggled"
+        ],
+        "answer": "toes are wiggled"
+    },
+    {
+        "query": "How is electricity produced from the ocean?",
+        "cands": [
+            "decaying organic material from sealife",
+            "energy is accessed underwater from tides",
+            "drills to access oil supplies",
+            "chemical reactions produced from the salt in the water"
+        ],
+        "answer": "energy is accessed underwater from tides"
+    },
+    {
+        "query": "small reptile's diet consists mostly of",
+        "cands": [
+            "invertebrates",
+            "insects",
+            "mammals",
+            "fish"
+        ],
+        "answer": "insects"
+    },
+    {
+        "query": "The life work of a flower is to",
+        "cands": [
+            "provide nice scents",
+            "be successfully fertilized",
+            "grow very tall",
+            "look pretty"
+        ],
+        "answer": "be successfully fertilized"
+    },
+    {
+        "query": "Which of these would create the most sound if struck with a metal spoon?",
+        "cands": [
+            "the plastic water bottle",
+            "the backside of a person",
+            "the hair on a doll",
+            "the chassis of a car"
+        ],
+        "answer": "the chassis of a car"
+    },
+    {
+        "query": "During landslides there is often a lot of",
+        "cands": [
+            "air",
+            "mud",
+            "snow",
+            "wind"
+        ],
+        "answer": "mud"
+    },
+    {
+        "query": "An example of a chemical reaction would be",
+        "cands": [
+            "A rusty fence",
+            "Sleeping",
+            "Drinking water",
+            "Rain"
+        ],
+        "answer": "A rusty fence"
+    },
+    {
+        "query": "The size of an object and the ability to see it more easily have what kind of relationship?",
+        "cands": [
+            "equal",
+            "inverse",
+            "direct",
+            "reverse"
+        ],
+        "answer": "direct"
+    },
+    {
+        "query": "Tuna primarily eat",
+        "cands": [
+            "parasites, soybeans and flaxseeds",
+            "sea turtles, sharks and coral reefs",
+            "spineless marine organisms, cartilaginous and gelatinous organisms",
+            "sea vegetables like kelp, Irish moss and Arame"
+        ],
+        "answer": "spineless marine organisms, cartilaginous and gelatinous organisms"
+    },
+    {
+        "query": "Evaporation of water can lead to",
+        "cands": [
+            "waterfalls",
+            "blizzards",
+            "earthquakes",
+            "hot springs"
+        ],
+        "answer": "blizzards"
+    },
+    {
+        "query": "What is an electrical energy conductor?",
+        "cands": [
+            "horseshoe",
+            "tire",
+            "cotton shirt",
+            "maple branch"
+        ],
+        "answer": "horseshoe"
+    },
+    {
+        "query": "What kind of substance will cool when it touches a cold object?",
+        "cands": [
+            "warm",
+            "frozen",
+            "chilly",
+            "cold"
+        ],
+        "answer": "warm"
+    },
+    {
+        "query": "Scraping an object",
+        "cands": [
+            "may cause the object to grow in size",
+            "may cause the object to fall",
+            "may cause pieces to flake off the object",
+            "may cause the object to snap in half"
+        ],
+        "answer": "may cause pieces to flake off the object"
+    },
+    {
+        "query": "A pulley is used to lift a flag on a flagpole by",
+        "cands": [
+            "moving a rope sideways",
+            "putting something in the air",
+            "moving things with wheels",
+            "yanking string up a wheel"
+        ],
+        "answer": "yanking string up a wheel"
+    },
+    {
+        "query": "Which animal lays eggs",
+        "cands": [
+            "emus",
+            "dogs",
+            "squirrels",
+            "giraffes"
+        ],
+        "answer": "emus"
+    },
+    {
+        "query": "Dunes can be made out of the same thing as",
+        "cands": [
+            "clothes",
+            "food",
+            "forests",
+            "castles"
+        ],
+        "answer": "castles"
+    },
+    {
+        "query": "A learned behavior is exhibited when",
+        "cands": [
+            "squinting in bright light",
+            "inhaling and exhaling during sleep",
+            "blinking and gulping air",
+            "nailing up a picture frame"
+        ],
+        "answer": "nailing up a picture frame"
+    },
+    {
+        "query": "Wax can be used similarly to",
+        "cands": [
+            "wood",
+            "rubber",
+            "water",
+            "metal"
+        ],
+        "answer": "rubber"
+    },
+    {
+        "query": "Bill planted rapeseed in his field one year and soybeans the next in order to",
+        "cands": [
+            "get bigger yields",
+            "make things boring",
+            "keep things random",
+            "get smaller yields"
+        ],
+        "answer": "get bigger yields"
+    },
+    {
+        "query": "What is the primary reason my duck feather filled jacket works well against the snow",
+        "cands": [
+            "feathers slows heat transfer",
+            "the natural duck wax",
+            "a synthetic thick liner",
+            "small flexible solar panels"
+        ],
+        "answer": "feathers slows heat transfer"
+    },
+    {
+        "query": "Turbines churning seawater can be used to produce what?",
+        "cands": [
+            "a charge for appliances",
+            "large quantities of soup",
+            "large schools of fish",
+            "creating some sharp cheese"
+        ],
+        "answer": "a charge for appliances"
+    },
+    {
+        "query": "What will increase when a substance absorbs solar energy?",
+        "cands": [
+            "weight",
+            "height",
+            "hotness",
+            "nutrition"
+        ],
+        "answer": "hotness"
+    },
+    {
+        "query": "Which of these travels through the air?",
+        "cands": [
+            "planets",
+            "thoughts",
+            "automobile",
+            "music"
+        ],
+        "answer": "music"
+    },
+    {
+        "query": "A company makes notebooks for college courses, so their main material is",
+        "cands": [
+            "chips",
+            "water",
+            "grass",
+            "trees"
+        ],
+        "answer": "trees"
+    },
+    {
+        "query": "Rain is usually guaranteed when all are present but",
+        "cands": [
+            "cirrus clouds",
+            "cumulus clouds",
+            "hail stones",
+            "direct sunshine"
+        ],
+        "answer": "direct sunshine"
+    },
+    {
+        "query": "Sources of air pollution are",
+        "cands": [
+            "Walking",
+            "Landfills",
+            "Water",
+            "Chips"
+        ],
+        "answer": "Landfills"
+    },
+    {
+        "query": "What are iron nails made out of?",
+        "cands": [
+            "wood",
+            "plastic",
+            "metal",
+            "glass"
+        ],
+        "answer": "metal"
+    },
+    {
+        "query": "Putting one kind of soda into the same cup as another kind of soda is doing what to the substances?",
+        "cands": [
+            "combining",
+            "drinking",
+            "Subtracting",
+            "throwing"
+        ],
+        "answer": "combining"
+    },
+    {
+        "query": "A moth leaving it's cocoon is the final step in a",
+        "cands": [
+            "life cycle",
+            "transformation",
+            "recycling process",
+            "chemical reaction"
+        ],
+        "answer": "transformation"
+    },
+    {
+        "query": "Which of these combinations would be desired if someone wanted to make a cutting implement that lasts a long time?",
+        "cands": [
+            "ice and snow",
+            "sticks and stones",
+            "snow and water",
+            "iron and carbon"
+        ],
+        "answer": "iron and carbon"
+    },
+    {
+        "query": "Which of the following is powered the same way an electric car is?",
+        "cands": [
+            "a bicycle",
+            "a motorcycle",
+            "a propane grill",
+            "a blender"
+        ],
+        "answer": "a blender"
+    },
+    {
+        "query": "Aluminum is what?",
+        "cands": [
+            "reprocessable",
+            "plastic",
+            "liquid",
+            "absorbent"
+        ],
+        "answer": "reprocessable"
+    },
+    {
+        "query": "To get warm frogs can",
+        "cands": [
+            "wear a Christmas sweater",
+            "Drink a hot chocolate",
+            "Go for a run",
+            "sit under a lamp"
+        ],
+        "answer": "sit under a lamp"
+    },
+    {
+        "query": "if you put wine from a jug into a thin bottle, how come it conforms?",
+        "cands": [
+            "it exhibits absolute rigidity",
+            "it is a solid mass",
+            "all of these",
+            "it is a variable substance"
+        ],
+        "answer": "it is a variable substance"
+    },
+    {
+        "query": "Earthworms create tunnels in",
+        "cands": [
+            "ice",
+            "dirt",
+            "water",
+            "concrete"
+        ],
+        "answer": "dirt"
+    },
+    {
+        "query": "when worms return nutrients from dead organisms to the soil by eating them it is known as",
+        "cands": [
+            "regurgitation",
+            "decomposition",
+            "recycling",
+            "burial"
+        ],
+        "answer": "decomposition"
+    },
+    {
+        "query": "The aluminum cans were much hotter than the",
+        "cands": [
+            "gold jewelry",
+            "wooden fence",
+            "brass doorknob",
+            "steel pole"
+        ],
+        "answer": "wooden fence"
+    },
+    {
+        "query": "Which of the following is not an input in photosynthesis?",
+        "cands": [
+            "sunlight",
+            "oxygen",
+            "water",
+            "carbon dioxide"
+        ],
+        "answer": "oxygen"
+    },
+    {
+        "query": "which of these are you most likely to find in a desert?",
+        "cands": [
+            "a hammer head shark",
+            "a big tilapia fish",
+            "a prickly horned male lizard",
+            "none of these"
+        ],
+        "answer": "a prickly horned male lizard"
+    },
+    {
+        "query": "If your dog sits in an oxygen deficient chamber, what happens?",
+        "cands": [
+            "it will be fine",
+            "it will be happy",
+            "it will be comfortable",
+            "It will pass out"
+        ],
+        "answer": "It will pass out"
+    },
+    {
+        "query": "Which of the following can be used to turn on an electrical device?",
+        "cands": [
+            "solar-rechargeable battery",
+            "a wedge",
+            "a magnet",
+            "pressure gauge"
+        ],
+        "answer": "solar-rechargeable battery"
+    },
+    {
+        "query": "Which of the following contains large amounts of salt water?",
+        "cands": [
+            "The Amazon",
+            "The Nile",
+            "The Indian",
+            "The Mississippi"
+        ],
+        "answer": "The Indian"
+    },
+    {
+        "query": "The nimbleness of this animal is a key adaption that allows it to escape attacks from predators:",
+        "cands": [
+            "the butterfly",
+            "the sloth",
+            "the praying mantis",
+            "the antelope"
+        ],
+        "answer": "the antelope"
+    },
+    {
+        "query": "A person speaks English as her first language because",
+        "cands": [
+            "media is mainly in English",
+            "school is in English",
+            "she was genetically predisposed",
+            "she watched her parents speak"
+        ],
+        "answer": "she watched her parents speak"
+    },
+    {
+        "query": "what are eaten by honey producing insects?",
+        "cands": [
+            "they consume plants",
+            "they eat cows",
+            "plant reproduction parts",
+            "they eat flowers"
+        ],
+        "answer": "plant reproduction parts"
+    },
+    {
+        "query": "The Earth's closest heat source is",
+        "cands": [
+            "our celestial fireball",
+            "solar flares",
+            "gamma rays",
+            "big bang"
+        ],
+        "answer": "our celestial fireball"
+    },
+    {
+        "query": "How can we see how wind effects sand?",
+        "cands": [
+            "sand is always moving",
+            "sandstorms create ripples in sand",
+            "sand is easy to move through",
+            "beaches often have waves in the sand"
+        ],
+        "answer": "sandstorms create ripples in sand"
+    },
+    {
+        "query": "Fruit comes from what source",
+        "cands": [
+            "an organism that releases carbon dioxide",
+            "an organism that absorbs water through it's branches",
+            "an organism that absorbs oxygen",
+            "an organism that absorbs water through it's roots"
+        ],
+        "answer": "an organism that absorbs water through it's roots"
+    },
+    {
+        "query": "In which location would a groundhog hide from a wolf?",
+        "cands": [
+            "beside a tree",
+            "in the grass",
+            "on a stump",
+            "under the ground"
+        ],
+        "answer": "under the ground"
+    },
+    {
+        "query": "Cutting down trees in a forest",
+        "cands": [
+            "leads to more habitats for animals",
+            "decreases the chance of erosion",
+            "increases the number of trees in the forest",
+            "leads to less habitats for animals"
+        ],
+        "answer": "leads to less habitats for animals"
+    },
+    {
+        "query": "I chipped away at a toy doll and the surface became really rough, when I rub it against a piece of wood that will create an increase in",
+        "cands": [
+            "animals",
+            "resistance",
+            "water",
+            "sunshine"
+        ],
+        "answer": "resistance"
+    },
+    {
+        "query": "The arctic is white in coloring",
+        "cands": [
+            "because it's overpopulated with polar bears",
+            "because it's covered in white lilies",
+            "because it's blanketed in crystalline ice water",
+            "because it's gets so little sunlight"
+        ],
+        "answer": "because it's blanketed in crystalline ice water"
+    },
+    {
+        "query": "What would help to ensure that your dog remains free from hypothermia in January in Alaska?",
+        "cands": [
+            "Lots of meat",
+            "Lots of love",
+            "Vitamin supplements",
+            "An insulated room"
+        ],
+        "answer": "An insulated room"
+    },
+    {
+        "query": "The majority of a lizard's diet consists of",
+        "cands": [
+            "fleas",
+            "crawlies",
+            "gummy worms",
+            "berries"
+        ],
+        "answer": "crawlies"
+    },
+    {
+        "query": "What food production happens in a leaf?",
+        "cands": [
+            "nutrient making process",
+            "the breathing",
+            "the respiration",
+            "the digestion"
+        ],
+        "answer": "nutrient making process"
+    },
+    {
+        "query": "Plants are unable to grow if they have zero access to",
+        "cands": [
+            "a nice cool breeze",
+            "fresh soil with manure",
+            "a regular source of saltwater",
+            "needs required for creating chlorophyll"
+        ],
+        "answer": "needs required for creating chlorophyll"
+    },
+    {
+        "query": "Which characteristic did a person inherit?",
+        "cands": [
+            "length of hair",
+            "number of friends",
+            "number of nails",
+            "length of shirt"
+        ],
+        "answer": "number of nails"
+    },
+    {
+        "query": "Selective deforestation has a negative impact on",
+        "cands": [
+            "rain clouds and ozone layer",
+            "lakes, ponds and shellfish",
+            "greenhouse gases and algae",
+            "living organisms in ecosystem"
+        ],
+        "answer": "living organisms in ecosystem"
+    },
+    {
+        "query": "Where would you find a mine?",
+        "cands": [
+            "in a tree",
+            "under a mountain",
+            "in the air",
+            "in the water"
+        ],
+        "answer": "under a mountain"
+    },
+    {
+        "query": "What can cause people to crash their car?",
+        "cands": [
+            "Seeing a solar eclipse",
+            "Using their turn signals",
+            "Driving the speed limit",
+            "Keeping their eyes on the road"
+        ],
+        "answer": "Seeing a solar eclipse"
+    },
+    {
+        "query": "Coral grows in",
+        "cands": [
+            "frigid waters",
+            "tepid seas",
+            "glacial environments",
+            "jungle forests"
+        ],
+        "answer": "tepid seas"
+    },
+    {
+        "query": "A Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring, so",
+        "cands": [
+            "certain things may be featured",
+            "certain features may be predicted",
+            "certain traits may be given",
+            "certain features may be guaranteed"
+        ],
+        "answer": "certain features may be predicted"
+    },
+    {
+        "query": "A deer is eating in a field, and wants more food. Regardless of how hard the deer tries, the deer is unable to produce",
+        "cands": [
+            "longer antlers",
+            "food for itself",
+            "baby deer",
+            "urine"
+        ],
+        "answer": "food for itself"
+    },
+    {
+        "query": "Building new areas to dispose of refuse may lead to",
+        "cands": [
+            "community concerns over environmental impact",
+            "better air and soil quality",
+            "higher value on land parcels",
+            "improvement in water supply"
+        ],
+        "answer": "community concerns over environmental impact"
+    },
+    {
+        "query": "Evaporation",
+        "cands": [
+            "causes puddles to become dried out mud",
+            "causes fields of crops to grow faster",
+            "causes flowers to bloom abundantly",
+            "fills up irrigation ponds"
+        ],
+        "answer": "causes puddles to become dried out mud"
+    },
+    {
+        "query": "A field begins to bloom and blossom and plants need to be pollinated. In order to spread seeds, plants will most rely on",
+        "cands": [
+            "pythons",
+            "salmon",
+            "robins",
+            "craters"
+        ],
+        "answer": "robins"
+    },
+    {
+        "query": "Which item urinates?",
+        "cands": [
+            "airplane",
+            "car",
+            "mammal",
+            "boat"
+        ],
+        "answer": "mammal"
+    },
+    {
+        "query": "All of the following are examples of evaporation apart from",
+        "cands": [
+            "Warm breath fogging up a mirror",
+            "Morning dew drying on the grass",
+            "The water level in a glass decreasing",
+            "Sweat drying on skin"
+        ],
+        "answer": "Warm breath fogging up a mirror"
+    },
+    {
+        "query": "The lunar cycle also changes",
+        "cands": [
+            "water",
+            "colors",
+            "the sun",
+            "planets"
+        ],
+        "answer": "water"
+    },
+    {
+        "query": "An organism that makes food for itself",
+        "cands": [
+            "is nutritionally self sustaining",
+            "will die faster than other organisms",
+            "will need help sustaining strength",
+            "is reliant on other organisms for assistance"
+        ],
+        "answer": "is nutritionally self sustaining"
+    },
+    {
+        "query": "What does the respiratory system transfer to the circulatory system?",
+        "cands": [
+            "food",
+            "water",
+            "nutrients",
+            "O"
+        ],
+        "answer": "O"
+    },
+    {
+        "query": "In a closed circuit, electricity will",
+        "cands": [
+            "burn out",
+            "charge itself",
+            "loop endlessly",
+            "resist flow"
+        ],
+        "answer": "loop endlessly"
+    },
+    {
+        "query": "A Punnett square can be used to calculate the chance of a trait being passed to someone's",
+        "cands": [
+            "mother",
+            "grandfather",
+            "daughter",
+            "father"
+        ],
+        "answer": "daughter"
+    },
+    {
+        "query": "They looked where the log decayed to garden as it would leave the earth",
+        "cands": [
+            "richer",
+            "dryer",
+            "sandy",
+            "harder"
+        ],
+        "answer": "richer"
+    },
+    {
+        "query": "what kind of temperature causes fur shedding?",
+        "cands": [
+            "in freezing cold",
+            "a high temperature",
+            "in any temperature",
+            "a low temperature"
+        ],
+        "answer": "a high temperature"
+    },
+    {
+        "query": "exposure to fire could result in",
+        "cands": [
+            "wet items",
+            "cold items",
+            "none of these",
+            "combusted items"
+        ],
+        "answer": "combusted items"
+    },
+    {
+        "query": "What is an example of clear weather meaning sunny weather?",
+        "cands": [
+            "more stars are visible on clear nights",
+            "cloud cover protects from sunburn",
+            "clear days will be warmer",
+            "fewer clouds allow for more sunlight"
+        ],
+        "answer": "fewer clouds allow for more sunlight"
+    },
+    {
+        "query": "The special tissues in plants that transport minerals throughout the plant are similar to",
+        "cands": [
+            "a wick",
+            "a funnel",
+            "a knife",
+            "a whisk"
+        ],
+        "answer": "a wick"
+    },
+    {
+        "query": "a compass is a kind of tool for determining direction by pointing",
+        "cands": [
+            "to western Canada shoreline",
+            "to the lower pole",
+            "to the upper pole",
+            "directly to the equator"
+        ],
+        "answer": "to the upper pole"
+    },
+    {
+        "query": "Which of these saws will last longer?",
+        "cands": [
+            "iron saw",
+            "aluminium saw",
+            "plastic saw",
+            "wooden saw"
+        ],
+        "answer": "iron saw"
+    },
+    {
+        "query": "although there are many stars visible in the night sky, which is most visible in the day?",
+        "cands": [
+            "the single moon close to us",
+            "the orion star cluster",
+            "the sun that shines all day",
+            "all of these"
+        ],
+        "answer": "the sun that shines all day"
+    },
+    {
+        "query": "The moon is known for having what feature?",
+        "cands": [
+            "frozen streams of water",
+            "large bowl shaped cavities",
+            "caves formed by solar winds",
+            "groups of large trees"
+        ],
+        "answer": "large bowl shaped cavities"
+    },
+    {
+        "query": "Cellular respiration's trash is",
+        "cands": [
+            "a bug's treasure",
+            "a cow's treasure",
+            "a plant's treasure",
+            "everyone's trash"
+        ],
+        "answer": "a plant's treasure"
+    },
+    {
+        "query": "Which of the following human activities can lead to a change in the local ecosystem?",
+        "cands": [
+            "swimming in a lake",
+            "building a new subdivision",
+            "dancing in a field",
+            "going for a hike"
+        ],
+        "answer": "building a new subdivision"
+    },
+    {
+        "query": "A bird that takes off flying is",
+        "cands": [
+            "using heat to produce motion",
+            "using calories to produce motion",
+            "using wings to produce heat",
+            "using calories to produce energy"
+        ],
+        "answer": "using calories to produce motion"
+    },
+    {
+        "query": "The leading cause of soil and rock erosion is",
+        "cands": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "Fe"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "query": "Which of these foods might have a negative impact on humans?",
+        "cands": [
+            "Organic corn",
+            "Conventional corn",
+            "Organic potato",
+            "Organic Apples"
+        ],
+        "answer": "Conventional corn"
+    },
+    {
+        "query": "What kind of implement is a compass?",
+        "cands": [
+            "to test heat",
+            "for wind speed",
+            "it measures distance",
+            "it shows direction"
+        ],
+        "answer": "it shows direction"
+    },
+    {
+        "query": "Nectar is taken to",
+        "cands": [
+            "flowers",
+            "a hive",
+            "a stream",
+            "a nest"
+        ],
+        "answer": "a hive"
+    },
+    {
+        "query": "what is the closest source of plasma to our planet?",
+        "cands": [
+            "all of these",
+            "the cloud in the sky",
+            "the nearest star sulfur burning heavenly body",
+            "the bare moon surface"
+        ],
+        "answer": "the nearest star sulfur burning heavenly body"
+    },
+    {
+        "query": "A sailor needs to navigate to the shore, and does this by",
+        "cands": [
+            "closing the sails quickly",
+            "setting out to sea",
+            "making an adjustment to the rudder",
+            "taking the afternoon off"
+        ],
+        "answer": "making an adjustment to the rudder"
+    },
+    {
+        "query": "A bat starts its life similarly to a",
+        "cands": [
+            "chicken",
+            "pig",
+            "butterfly",
+            "duck"
+        ],
+        "answer": "pig"
+    },
+    {
+        "query": "In order to catch a rabbit, a predator must be",
+        "cands": [
+            "big",
+            "quick",
+            "slow",
+            "small"
+        ],
+        "answer": "quick"
+    },
+    {
+        "query": "If a bird is a carnivore, then it is likely a(n)",
+        "cands": [
+            "prey",
+            "predator",
+            "herbivore",
+            "canary"
+        ],
+        "answer": "predator"
+    },
+    {
+        "query": "A warm-weather organism can be found in",
+        "cands": [
+            "the Sahara",
+            "the mountains",
+            "the ocean",
+            "the sewers"
+        ],
+        "answer": "the Sahara"
+    },
+    {
+        "query": "When approaching an elephant from a great distance,",
+        "cands": [
+            "it stays large",
+            "it grows larger",
+            "it gets bigger",
+            "it looks bigger"
+        ],
+        "answer": "it looks bigger"
+    },
+    {
+        "query": "What would cause a human to grow?",
+        "cands": [
+            "light waves",
+            "eating wheat",
+            "photosynthesis",
+            "marching"
+        ],
+        "answer": "eating wheat"
+    },
+    {
+        "query": "A saguaro has adaptations for an environment with",
+        "cands": [
+            "lots of snow",
+            "many people",
+            "less water",
+            "more water"
+        ],
+        "answer": "less water"
+    },
+    {
+        "query": "There are less hummingbirds by this house than before because of",
+        "cands": [
+            "a feeder at this house",
+            "the birds no longer like feeders",
+            "the size of the feeder",
+            "a feeder at another house"
+        ],
+        "answer": "a feeder at another house"
+    },
+    {
+        "query": "the  oceans are full of",
+        "cands": [
+            "water lilies",
+            "guppies",
+            "sea life",
+            "fresh water"
+        ],
+        "answer": "sea life"
+    },
+    {
+        "query": "A light was off because the cord was",
+        "cands": [
+            "sitting on the table",
+            "attached to the wall",
+            "attached to an extension cord",
+            "attached to a battery pack"
+        ],
+        "answer": "sitting on the table"
+    },
+    {
+        "query": "In the hottest months in the hottest desert, creatures such as birds may find water to drink",
+        "cands": [
+            "in sticks",
+            "in pebbles",
+            "in sand",
+            "in spiked plants"
+        ],
+        "answer": "in spiked plants"
+    },
+    {
+        "query": "Why might a polar bear grow white hair?",
+        "cands": [
+            "look fancy",
+            "random",
+            "blend in",
+            "stand out"
+        ],
+        "answer": "blend in"
+    },
+    {
+        "query": "Xylem",
+        "cands": [
+            "discourages pests from landing on leaves",
+            "allows plants to move carbon dioxide from root to stems",
+            "carries seedlings from roots to leaves",
+            "allows plants to move rain thru their systems"
+        ],
+        "answer": "allows plants to move rain thru their systems"
+    },
+    {
+        "query": "A food that is a source of heat is",
+        "cands": [
+            "ramen",
+            "salad",
+            "ice cream",
+            "sushi"
+        ],
+        "answer": "ramen"
+    },
+    {
+        "query": "When heat is added to something",
+        "cands": [
+            "contaminates may be destroyed",
+            "bacterial can grow more rapidly",
+            "viruses may be picked up",
+            "the thing loses energy"
+        ],
+        "answer": "contaminates may be destroyed"
+    },
+    {
+        "query": "The heart is an example of",
+        "cands": [
+            "a part of the nervous system",
+            "an organ that filters toxins",
+            "a self-healing protector from germs",
+            "something protected by the skeletal system"
+        ],
+        "answer": "something protected by the skeletal system"
+    },
+    {
+        "query": "Prey are eaten by",
+        "cands": [
+            "an animal herded by sheep dogs",
+            "the animal with a starring role in Bambi",
+            "animals known for their memory",
+            "the fastest mammal with four legs"
+        ],
+        "answer": "the fastest mammal with four legs"
+    },
+    {
+        "query": "A dog is warm-blooded just like",
+        "cands": [
+            "a snake",
+            "a cardinal",
+            "a spider",
+            "a scorpion"
+        ],
+        "answer": "a cardinal"
+    },
+    {
+        "query": "A flashlight will need this in order to radiate photons:",
+        "cands": [
+            "radiation",
+            "acoustic energy",
+            "vibrations",
+            "electron flow"
+        ],
+        "answer": "electron flow"
+    },
+    {
+        "query": "to find out how fast you are going you first need to know",
+        "cands": [
+            "where you're going",
+            "distance traveled",
+            "distance to travel",
+            "home location"
+        ],
+        "answer": "distance traveled"
+    },
+    {
+        "query": "A small lamb, two days old, is walking with its mother. The mother feels ill, so refuses food, which dries up her milk production. The lack of lactation causes the lamb to",
+        "cands": [
+            "weaken",
+            "strengthen",
+            "coexist",
+            "thrive"
+        ],
+        "answer": "weaken"
+    },
+    {
+        "query": "When trying to find fresh clams for dinner, a hungry person would don",
+        "cands": [
+            "a dinner jacket",
+            "a diving suit",
+            "a warm coat",
+            "a dress suit"
+        ],
+        "answer": "a diving suit"
+    },
+    {
+        "query": "How do polar bears survive the cold?",
+        "cands": [
+            "B and D",
+            "Double Fur Coats",
+            "Cold blooded",
+            "Compact ears"
+        ],
+        "answer": "B and D"
+    },
+    {
+        "query": "A solid is likely to form in extreme",
+        "cands": [
+            "floods",
+            "wind",
+            "chill",
+            "rain"
+        ],
+        "answer": "chill"
+    },
+    {
+        "query": "What are the feet of Dendrocygna autumnalis designed for?",
+        "cands": [
+            "catching prey",
+            "aquatic speed",
+            "flying",
+            "walking"
+        ],
+        "answer": "aquatic speed"
+    },
+    {
+        "query": "What is an example of fire giving off light?",
+        "cands": [
+            "an oven is preheated and the pilot light is lit",
+            "a match is lit to light a cigarette",
+            "a lit candle in a window signalling to someone",
+            "a fire that was put out to send smoke signals"
+        ],
+        "answer": "a lit candle in a window signalling to someone"
+    },
+    {
+        "query": "The respiratory system works by",
+        "cands": [
+            "directing oxygen from lungs to other organs",
+            "pushing air through lungs",
+            "moving air in a room",
+            "making air quality better"
+        ],
+        "answer": "directing oxygen from lungs to other organs"
+    },
+    {
+        "query": "Animals have more fat",
+        "cands": [
+            "in the ocean",
+            "in human homes",
+            "in landfills",
+            "in polar areas"
+        ],
+        "answer": "in polar areas"
+    },
+    {
+        "query": "A stick bug uses what to protect itself from predators?",
+        "cands": [
+            "poison",
+            "its appearance",
+            "speed",
+            "hearing"
+        ],
+        "answer": "its appearance"
+    },
+    {
+        "query": "Corn is sometimes used to make",
+        "cands": [
+            "a simple alcohol",
+            "water",
+            "glass",
+            "milk"
+        ],
+        "answer": "a simple alcohol"
+    },
+    {
+        "query": "The inside of the Thanksgiving turkey is white instead of pink because of",
+        "cands": [
+            "heat energy",
+            "light energy",
+            "color energy",
+            "color transfusion"
+        ],
+        "answer": "heat energy"
+    },
+    {
+        "query": "Little puppies are a result of:",
+        "cands": [
+            "reproduction ?",
+            "pet store sale",
+            "a begging child",
+            "evolution"
+        ],
+        "answer": "reproduction ?"
+    },
+    {
+        "query": "What would a Jersey most likely be fed?",
+        "cands": [
+            "hamburger",
+            "moles",
+            "alfalfa",
+            "cow"
+        ],
+        "answer": "alfalfa"
+    },
+    {
+        "query": "Which of these energy sources generates the least amount of pollution?",
+        "cands": [
+            "coal",
+            "windmill",
+            "lithium batteries",
+            "gasoline"
+        ],
+        "answer": "windmill"
+    },
+    {
+        "query": "Grass snakes live in what?",
+        "cands": [
+            "trees",
+            "mountains",
+            "lakes",
+            "turf"
+        ],
+        "answer": "turf"
+    },
+    {
+        "query": "Cephalopod ink is by octopuses to",
+        "cands": [
+            "mate",
+            "feed",
+            "hide",
+            "play"
+        ],
+        "answer": "hide"
+    },
+    {
+        "query": "Tapping a drumstick to a drum will",
+        "cands": [
+            "reverberate when touched together",
+            "vibrate when next to each other",
+            "shake around when near",
+            "put each other down"
+        ],
+        "answer": "reverberate when touched together"
+    },
+    {
+        "query": "Snow is more likely to fall two months before",
+        "cands": [
+            "June",
+            "March",
+            "September",
+            "December"
+        ],
+        "answer": "March"
+    },
+    {
+        "query": "If I want to avoid being dinner for some type of frog what should I reincarnate as?",
+        "cands": [
+            "Scorpion",
+            "House Fly",
+            "Cricket",
+            "Moth"
+        ],
+        "answer": "Scorpion"
+    },
+    {
+        "query": "Dead plants are easier to find in",
+        "cands": [
+            "January",
+            "July",
+            "May",
+            "September"
+        ],
+        "answer": "January"
+    },
+    {
+        "query": "The harder a child pushes a toy car",
+        "cands": [
+            "decreases the distance it will travel",
+            "the further it will roll across the floor",
+            "the quicker the child will want to play with another toy",
+            "determines how long the child with play with it"
+        ],
+        "answer": "the further it will roll across the floor"
+    },
+    {
+        "query": "Fossil fuels",
+        "cands": [
+            "come from old age",
+            "come from expired life",
+            "take two years to create",
+            "are created in a year"
+        ],
+        "answer": "come from expired life"
+    },
+    {
+        "query": "A star, burning far, far away, has enormous pressure and temperature. This allows for",
+        "cands": [
+            "a room to have overhead lights",
+            "night on Earth to be dimly lit",
+            "plastic stars to decorate a ceiling",
+            "a person to be the star of a show"
+        ],
+        "answer": "night on Earth to be dimly lit"
+    },
+    {
+        "query": "Erosion is caused by different kinds of",
+        "cands": [
+            "soil",
+            "fish",
+            "rocks",
+            "weather"
+        ],
+        "answer": "weather"
+    },
+    {
+        "query": "Respiration is a",
+        "cands": [
+            "happens for some species",
+            "happens for only land dwelling mammals",
+            "occurs for only sea creatures",
+            "commonality among all animals"
+        ],
+        "answer": "commonality among all animals"
+    },
+    {
+        "query": "In order for your computer to operate, it must have an electrical path that is what?",
+        "cands": [
+            "magical",
+            "closed",
+            "broken",
+            "open"
+        ],
+        "answer": "closed"
+    },
+    {
+        "query": "Polar bears live in",
+        "cands": [
+            "frosty environments",
+            "tepid environments",
+            "warm environments",
+            "tropical environments"
+        ],
+        "answer": "frosty environments"
+    },
+    {
+        "query": "What would be more likely to attract a magnet?",
+        "cands": [
+            "a plastic zipper",
+            "flowing water",
+            "a car engine",
+            "A wooden desk"
+        ],
+        "answer": "a car engine"
+    },
+    {
+        "query": "What constitutes a frog's diet?",
+        "cands": [
+            "it eats all plants",
+            "it will eat dogs",
+            "it only eats burgers",
+            "it chomps on insects"
+        ],
+        "answer": "it chomps on insects"
+    },
+    {
+        "query": "What is an example of the digestive system digesting food for the body?",
+        "cands": [
+            "a man eating nachos then getting food poisoning",
+            "a baby drinking formula then needing a diaper change",
+            "a cat eating food then throwing it up",
+            "a horse licking a salt lick"
+        ],
+        "answer": "a baby drinking formula then needing a diaper change"
+    },
+    {
+        "query": "The body is negatively impacted by",
+        "cands": [
+            "white blood cells",
+            "vitamins",
+            "rotavirus",
+            "nasal decongestants"
+        ],
+        "answer": "rotavirus"
+    },
+    {
+        "query": "Someone wants their electromagnets to work, but is having difficulty powering them. In order to make them work, they need to",
+        "cands": [
+            "run wire through currants",
+            "run a continuous current",
+            "run around the wire",
+            "currently run wire through"
+        ],
+        "answer": "run a continuous current"
+    },
+    {
+        "query": "if a place has experienced flooding, what could be responsible?",
+        "cands": [
+            "all of these",
+            "there has been excess condensed water vapor",
+            "the water lacks oxygen",
+            "the local deities are angry"
+        ],
+        "answer": "there has been excess condensed water vapor"
+    },
+    {
+        "query": "What is an example of reproduction?",
+        "cands": [
+            "farming",
+            "egg depositing",
+            "flying",
+            "walking"
+        ],
+        "answer": "egg depositing"
+    },
+    {
+        "query": "A place that is snowy has a large amount of",
+        "cands": [
+            "wind",
+            "storms",
+            "frozen water",
+            "rain"
+        ],
+        "answer": "frozen water"
+    },
+    {
+        "query": "An ideal abode for crickets is",
+        "cands": [
+            "a small potted plant in a house",
+            "a green and lush tree and plant packed area",
+            "a briny and warm body of water",
+            "a area surrounded by spider webs"
+        ],
+        "answer": "a green and lush tree and plant packed area"
+    },
+    {
+        "query": "Carbon steel is always what?",
+        "cands": [
+            "attractive to various objects that contain iron",
+            "pleasant with a magnetic personality",
+            "made up of iron and pieces of magnets",
+            "hard as a magnetizing rod"
+        ],
+        "answer": "attractive to various objects that contain iron"
+    },
+    {
+        "query": "if a bat delivers a live offspring, what does this tell us?",
+        "cands": [
+            "it is a mammal",
+            "calling it a bird is wrong",
+            "all of these",
+            "it is capable of reproducing"
+        ],
+        "answer": "all of these"
+    },
+    {
+        "query": "If you find something smooth and hard on the ground, it is probably made of what?",
+        "cands": [
+            "minerals",
+            "mist",
+            "clouds",
+            "water"
+        ],
+        "answer": "minerals"
+    },
+    {
+        "query": "as you get closer to something it begins to",
+        "cands": [
+            "shrinks down to nothing",
+            "grow in size visually",
+            "show a large shadow",
+            "rotate in a clockwise direction"
+        ],
+        "answer": "grow in size visually"
+    },
+    {
+        "query": "After a storm",
+        "cands": [
+            "ponds may dry out",
+            "flowers will wilt and wither",
+            "creek beds may be spilling over",
+            "drinking water will be in short supply"
+        ],
+        "answer": "creek beds may be spilling over"
+    },
+    {
+        "query": "What could I use as biofuel",
+        "cands": [
+            "Gold",
+            "Car",
+            "Diamonds",
+            "Pine Needles"
+        ],
+        "answer": "Pine Needles"
+    },
+    {
+        "query": "Which animal is hiding from a predator?",
+        "cands": [
+            "a tadpole losing its tail as it grows",
+            "an angler fish using its Esca to lure another fish",
+            "an octopus mimicking the color and texture of a rocky outcrop",
+            "a great white shark breaching the water's surface"
+        ],
+        "answer": "an octopus mimicking the color and texture of a rocky outcrop"
+    },
+    {
+        "query": "Which best demonstrates the concept of force causing an increase in speed?",
+        "cands": [
+            "skating on a rough surface",
+            "a full bag swung in circles",
+            "a computer powering on",
+            "a baker stirring batter"
+        ],
+        "answer": "a full bag swung in circles"
+    },
+    {
+        "query": "the night sky shows very far away what",
+        "cands": [
+            "clumps of flaming gas",
+            "tidal waves washing over beaches",
+            "aircraft falling towards collision",
+            "party balloons tied to houses"
+        ],
+        "answer": "clumps of flaming gas"
+    },
+    {
+        "query": "Which would you likely find inside a beach ball?",
+        "cands": [
+            "cheese",
+            "steam",
+            "water",
+            "air"
+        ],
+        "answer": "air"
+    },
+    {
+        "query": "Two fridge decorations when touched back to back",
+        "cands": [
+            "shove each other away",
+            "are attracted to each other",
+            "have very little reaction",
+            "are reflective when together"
+        ],
+        "answer": "shove each other away"
+    },
+    {
+        "query": "Runoff happens because of",
+        "cands": [
+            "birds",
+            "cattails",
+            "people",
+            "fish"
+        ],
+        "answer": "people"
+    },
+    {
+        "query": "Desert environments are generally",
+        "cands": [
+            "sweltering",
+            "arctic like",
+            "lush",
+            "frigid"
+        ],
+        "answer": "sweltering"
+    },
+    {
+        "query": "Are deserts characterized by high sunshine?",
+        "cands": [
+            "they get low sunlight",
+            "deserts get surplus sun",
+            "deserts get little sun",
+            "deserts are always cloudy"
+        ],
+        "answer": "deserts get surplus sun"
+    },
+    {
+        "query": "Water conservation could be a survival tactic in",
+        "cands": [
+            "The Appalachian Mountains",
+            "New York City",
+            "The Amazon",
+            "The Gobi Desert"
+        ],
+        "answer": "The Gobi Desert"
+    },
+    {
+        "query": "Objects used to hold sheets of paper together are often",
+        "cands": [
+            "large",
+            "wooden",
+            "ferromagnetic",
+            "electronic"
+        ],
+        "answer": "ferromagnetic"
+    },
+    {
+        "query": "In order for plants and animals to grow, they need to consume food and water for",
+        "cands": [
+            "energy",
+            "fun",
+            "taste",
+            "soil"
+        ],
+        "answer": "energy"
+    },
+    {
+        "query": "A bear cub learns to stay away from unknown bears because",
+        "cands": [
+            "they are much bigger than the cub",
+            "the other bears look like its mother",
+            "their mother teaches them to keep their distance",
+            "the unknown bears look harmless"
+        ],
+        "answer": "their mother teaches them to keep their distance"
+    },
+    {
+        "query": "a person driving to work in which of these is most likely to lose control?",
+        "cands": [
+            "a dry cobblestone road",
+            "a sleet covered highway",
+            "a dry paved road",
+            "a dry gravel road"
+        ],
+        "answer": "a sleet covered highway"
+    },
+    {
+        "query": "The only creature with offspring that is hatched, of these, is the",
+        "cands": [
+            "squirrel",
+            "swallow",
+            "mink",
+            "bat"
+        ],
+        "answer": "swallow"
+    },
+    {
+        "query": "What element is prevalent in a plateau?",
+        "cands": [
+            "helium",
+            "krypton",
+            "silicon",
+            "neon"
+        ],
+        "answer": "silicon"
+    },
+    {
+        "query": "When a city tears down a park in a city, the park",
+        "cands": [
+            "is removed",
+            "is renewed",
+            "is retrieved",
+            "is restored"
+        ],
+        "answer": "is removed"
+    },
+    {
+        "query": "Seeds",
+        "cands": [
+            "are useless shells that need to be discarded",
+            "store extra bits of chlorophyll",
+            "need to be mashed to grow",
+            "aid in feeding what grows from them"
+        ],
+        "answer": "aid in feeding what grows from them"
+    },
+    {
+        "query": "If a grizzly bear eats a salmon, what is the grizzly bear demonstrating?",
+        "cands": [
+            "consumption",
+            "cinematography",
+            "direction",
+            "production"
+        ],
+        "answer": "consumption"
+    },
+    {
+        "query": "The spring season brings",
+        "cands": [
+            "Bees",
+            "Snow",
+            "More Oxygen",
+            "Dust"
+        ],
+        "answer": "Bees"
+    },
+    {
+        "query": "Kinetic energy can be found in objects that move, such as",
+        "cands": [
+            "flower pots on a wagon",
+            "cars that are in a lot",
+            "kids that are sleeping soundly",
+            "skateboards that are ridden all day"
+        ],
+        "answer": "skateboards that are ridden all day"
+    },
+    {
+        "query": "which of these is the quickest to go visiting from our world?",
+        "cands": [
+            "none of these",
+            "a trip to mars",
+            "a trip to the moon",
+            "a trip to the northern star"
+        ],
+        "answer": "a trip to the moon"
+    },
+    {
+        "query": "Animals died after the removal of a",
+        "cands": [
+            "bush",
+            "street",
+            "house",
+            "city"
+        ],
+        "answer": "bush"
+    },
+    {
+        "query": "If I want to go running at night, what can I use as a reflector?",
+        "cands": [
+            "A black shirt",
+            "Kitchen foil",
+            "Sunglasses",
+            "A megaphone"
+        ],
+        "answer": "Kitchen foil"
+    },
+    {
+        "query": "the closest star to our planet delivers solar energy to the planet",
+        "cands": [
+            "maybe",
+            "all of these",
+            "this is sure",
+            "this is uncertain"
+        ],
+        "answer": "this is sure"
+    },
+    {
+        "query": "Coal-fire power stations heat coal to incredible temps in order to",
+        "cands": [
+            "produce energy",
+            "use heat energy",
+            "burn energy",
+            "fuel the world"
+        ],
+        "answer": "produce energy"
+    },
+    {
+        "query": "Creatures sometimes have barbs on their backs that they use to sting, all of these do, outside of the",
+        "cands": [
+            "wasp",
+            "bee",
+            "scorpion",
+            "butterfly"
+        ],
+        "answer": "butterfly"
+    },
+    {
+        "query": "A renewable resource is",
+        "cands": [
+            "fossil fuel",
+            "turbine produced electricity",
+            "copper",
+            "coal lumps"
+        ],
+        "answer": "turbine produced electricity"
+    },
+    {
+        "query": "In a hypothetical world, black bears decrease in numbers until there are zero black bears left on this world. The black bear species",
+        "cands": [
+            "would cease existing",
+            "would be troubled",
+            "would be thriving",
+            "would be endangered"
+        ],
+        "answer": "would cease existing"
+    },
+    {
+        "query": "Acid can be used to make a new",
+        "cands": [
+            "light",
+            "substance",
+            "electricity",
+            "sound"
+        ],
+        "answer": "substance"
+    },
+    {
+        "query": "Global warming is lowering the world's amount of",
+        "cands": [
+            "hurricanes",
+            "ocean levels",
+            "carbon dioxide",
+            "ice"
+        ],
+        "answer": "ice"
+    },
+    {
+        "query": "Echolocation can't detect an object's",
+        "cands": [
+            "distance",
+            "shape",
+            "size",
+            "temperature"
+        ],
+        "answer": "temperature"
+    },
+    {
+        "query": "What material has already broken down?",
+        "cands": [
+            "wood",
+            "glass",
+            "boulders",
+            "sand"
+        ],
+        "answer": "sand"
+    },
+    {
+        "query": "Which beverage would dissolve solids the best?",
+        "cands": [
+            "A glass of ice-cold water",
+            "A boiling hot mug of tea",
+            "A cup of warm milk",
+            "A room temperature glass of water"
+        ],
+        "answer": "A boiling hot mug of tea"
+    },
+    {
+        "query": "Which animal has live births?",
+        "cands": [
+            "poodle",
+            "hummingbird",
+            "crocodile",
+            "trout"
+        ],
+        "answer": "poodle"
+    },
+    {
+        "query": "Quartz crystals are made up of",
+        "cands": [
+            "majic",
+            "hexagons",
+            "octogons",
+            "water"
+        ],
+        "answer": "hexagons"
+    },
+    {
+        "query": "cellular respiration is when energy is produced in a cell by consumption of",
+        "cands": [
+            "water",
+            "nutrients",
+            "mitochondria",
+            "gas"
+        ],
+        "answer": "nutrients"
+    },
+    {
+        "query": "Did pasteurization get invented by Thomas Edison?",
+        "cands": [
+            "negative",
+            "positive",
+            "all of these",
+            "maybe it was"
+        ],
+        "answer": "negative"
+    },
+    {
+        "query": "A glass of water can undergo a chemical change by adding",
+        "cands": [
+            "a cup of salt",
+            "a cup of dirt",
+            "a cup of water",
+            "a cup of ice"
+        ],
+        "answer": "a cup of salt"
+    },
+    {
+        "query": "Water levels may decrease on cloudless days because",
+        "cands": [
+            "water is warmer than the air",
+            "air is warmer than water",
+            "moisture is pulled upwards",
+            "moisture always tries to rise"
+        ],
+        "answer": "moisture is pulled upwards"
+    },
+    {
+        "query": "To change an object's shape",
+        "cands": [
+            "rip off a corner portion",
+            "lay it flat on a table",
+            "color the edges of it",
+            "add a piece of tape to it"
+        ],
+        "answer": "rip off a corner portion"
+    },
+    {
+        "query": "Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of",
+        "cands": [
+            "reports of tornadoes in the area",
+            "a dog running across the highway behind Steve's car",
+            "a sudden fog moving into the area",
+            "ice forming on the road"
+        ],
+        "answer": "a sudden fog moving into the area"
+    },
+    {
+        "query": "DNA is a vehicle for passing",
+        "cands": [
+            "clothes types",
+            "school grades",
+            "elbow size",
+            "language and dialect"
+        ],
+        "answer": "elbow size"
+    },
+    {
+        "query": "A beach ball goes from flat to round once you put what inside of it?",
+        "cands": [
+            "food",
+            "sunlight",
+            "gas",
+            "salt"
+        ],
+        "answer": "gas"
+    },
+    {
+        "query": "In general, how many times per month is there a full moon?",
+        "cands": [
+            "twice",
+            "three times",
+            "once",
+            "four times"
+        ],
+        "answer": "once"
+    },
+    {
+        "query": "What kind of object does light bounce off of?",
+        "cands": [
+            "tadpole",
+            "any object",
+            "item that reflects",
+            "black hole"
+        ],
+        "answer": "item that reflects"
+    },
+    {
+        "query": "The amount of brush in a park has been decreasing. What could be a cause?",
+        "cands": [
+            "the season has been quite dry",
+            "There has been a lot of rain",
+            "snakes shelter under the brush",
+            "People have been walking by the brush on the trails"
+        ],
+        "answer": "the season has been quite dry"
+    },
+    {
+        "query": "if a pot on the stove is described as hot, what does this mean?",
+        "cands": [
+            "the body of the pot is of high temperature",
+            "the body of the pot is cold",
+            "all of these",
+            "the body of the pot is wet"
+        ],
+        "answer": "the body of the pot is of high temperature"
+    },
+    {
+        "query": "What animal is more difficult for predators to see in water?",
+        "cands": [
+            "a fish",
+            "a duck",
+            "an octopus",
+            "a crab"
+        ],
+        "answer": "an octopus"
+    },
+    {
+        "query": "A wedge requires",
+        "cands": [
+            "electrical energy",
+            "chemical energy",
+            "mechanical energy",
+            "heat energy"
+        ],
+        "answer": "mechanical energy"
+    },
+    {
+        "query": "In solid phase matter has a/an",
+        "cands": [
+            "concrete configuration",
+            "ambiguous form",
+            "shapeless form",
+            "radioactive glow"
+        ],
+        "answer": "concrete configuration"
+    },
+    {
+        "query": "A school trip is going to study the coral reef for a class. They want to see how strong coral is, and what species of life live in and around it. Therefore, the class",
+        "cands": [
+            "takes a trip to the desert",
+            "climbs a tall mountain",
+            "travels to the seaside",
+            "visits a remote jungle"
+        ],
+        "answer": "travels to the seaside"
+    },
+    {
+        "query": "When ice buildup is on a sidewalk, the ice may be reduced by",
+        "cands": [
+            "adding salt",
+            "adding litter",
+            "adding sand",
+            "adding water"
+        ],
+        "answer": "adding salt"
+    },
+    {
+        "query": "The appropriate place to put this item is the recycling bin",
+        "cands": [
+            "used motor oil",
+            "used soda can",
+            "used Styrofoam plates",
+            "left over medicine"
+        ],
+        "answer": "used soda can"
+    },
+    {
+        "query": "How many times would someone change the page of a calendar in a year?",
+        "cands": [
+            "13",
+            "12",
+            "15",
+            "14"
+        ],
+        "answer": "12"
+    },
+    {
+        "query": "A car has the least speed if it",
+        "cands": [
+            "is heavy",
+            "is large",
+            "is turned off",
+            "is small"
+        ],
+        "answer": "is turned off"
+    },
+    {
+        "query": "Which musical instrument is the same type as a guitar?",
+        "cands": [
+            "flute",
+            "cello",
+            "drum",
+            "trumpet"
+        ],
+        "answer": "cello"
+    },
+    {
+        "query": "The balance result will be number of",
+        "cands": [
+            "kilowatts",
+            "kilobytes",
+            "kilograms",
+            "kilometers"
+        ],
+        "answer": "kilograms"
+    },
+    {
+        "query": "Which of these is a place where a human might live?",
+        "cands": [
+            "igloo",
+            "cloud",
+            "Mars",
+            "the Moon"
+        ],
+        "answer": "igloo"
+    },
+    {
+        "query": "Camouflage is when an organism does what?",
+        "cands": [
+            "reconfigure appearance to blend in",
+            "hides its young to avoid prey",
+            "changes its shape to appear larger",
+            "buries itself to disappear momentarily"
+        ],
+        "answer": "reconfigure appearance to blend in"
+    },
+    {
+        "query": "Which of these is required for a plant to enjoy the product of a rain storm?",
+        "cands": [
+            "xylem",
+            "luck",
+            "magic",
+            "dirt"
+        ],
+        "answer": "xylem"
+    },
+    {
+        "query": "How does a microscope make small things appear?",
+        "cands": [
+            "humongous",
+            "transparent",
+            "discolored",
+            "distorted"
+        ],
+        "answer": "humongous"
+    },
+    {
+        "query": "Water can turn to vapor",
+        "cands": [
+            "when a pot of water is placed on an off stove burner",
+            "when placing water in a freezer",
+            "when boiling eggs on a stove top",
+            "when placed in a room temperature setting"
+        ],
+        "answer": "when boiling eggs on a stove top"
+    },
+    {
+        "query": "An incandescent bulb's filament produces similar light as an LED bulb, but more",
+        "cands": [
+            "white light",
+            "conversion",
+            "heat",
+            "sound"
+        ],
+        "answer": "heat"
+    },
+    {
+        "query": "A boy at school is waiting desperately for the school day to be over so that he can go home and play video games. He watches the time count down on the clock at the head of the class, counting the",
+        "cands": [
+            "seconds",
+            "days",
+            "weeks",
+            "years"
+        ],
+        "answer": "seconds"
+    },
+    {
+        "query": "Camouflage can be used by animals for hunting",
+        "cands": [
+            "water",
+            "trees",
+            "air",
+            "meals"
+        ],
+        "answer": "meals"
+    },
+    {
+        "query": "Carbohydrates are made of sugar, which means that a diabetic would need to exhibit care in consuming",
+        "cands": [
+            "broccoli",
+            "meat",
+            "celery",
+            "toast"
+        ],
+        "answer": "toast"
+    },
+    {
+        "query": "Hand dryers can also be used to",
+        "cands": [
+            "keep cold drinks cool",
+            "dry out clothes after coming in from the rain",
+            "hydrate your face and hands",
+            "make a damp rag damper"
+        ],
+        "answer": "dry out clothes after coming in from the rain"
+    },
+    {
+        "query": "Polar bears require",
+        "cands": [
+            "a tropical environment",
+            "a frigid environment",
+            "a tepid environment",
+            "a warm environment"
+        ],
+        "answer": "a frigid environment"
+    },
+    {
+        "query": "A measurement of time that is less than a minute is a",
+        "cands": [
+            "day",
+            "minute",
+            "hour",
+            "second"
+        ],
+        "answer": "second"
+    },
+    {
+        "query": "What will be more available in an area when rainfall increases?",
+        "cands": [
+            "fire",
+            "air",
+            "dirt",
+            "H2O"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "query": "When does the first quarter phase of the moon occur?",
+        "cands": [
+            "when you cannot see the moon in the sky at night",
+            "after the first phase of the lunar month",
+            "after a blue moon",
+            "during the full moon"
+        ],
+        "answer": "after the first phase of the lunar month"
+    },
+    {
+        "query": "An ice cube placed in sunlight will",
+        "cands": [
+            "shrink",
+            "change color",
+            "grow",
+            "freeze"
+        ],
+        "answer": "shrink"
+    },
+    {
+        "query": "If a person loses his job and is low on money, he will have to start cutting back on how much food he consumes or he'd run out, otherwise known as",
+        "cands": [
+            "destroying",
+            "conserving",
+            "losing",
+            "squandering"
+        ],
+        "answer": "conserving"
+    },
+    {
+        "query": "The skeletal system protects which of these?",
+        "cands": [
+            "liver",
+            "eyelashes",
+            "finger nails",
+            "blood vessels"
+        ],
+        "answer": "liver"
+    },
+    {
+        "query": "What has more gravity force than Earth but less than the sun?",
+        "cands": [
+            "Jupiter",
+            "the moon",
+            "a space station",
+            "a comet"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "query": "The dam was put under much more stress after the",
+        "cands": [
+            "party",
+            "huge rain storm",
+            "drought",
+            "breakup."
+        ],
+        "answer": "huge rain storm"
+    },
+    {
+        "query": "If photosynthesis was a recipe it would require these ingredients",
+        "cands": [
+            "CO2, water, and argon",
+            "sunlight, oxygen, and fertilizer",
+            "CO2, H20, and cloudy skies",
+            "CO2, H20, and sun rays"
+        ],
+        "answer": "CO2, H20, and sun rays"
+    },
+    {
+        "query": "If a nail is Fe, that nail is",
+        "cands": [
+            "foreign",
+            "atomic 26",
+            "nickel",
+            "atomic 12"
+        ],
+        "answer": "atomic 26"
+    },
+    {
+        "query": "when a circle is torn it is",
+        "cands": [
+            "doubled",
+            "changed",
+            "a smaller circle",
+            "a square"
+        ],
+        "answer": "changed"
+    },
+    {
+        "query": "Wind can cause",
+        "cands": [
+            "leaves to remain on branches",
+            "trees to stand perfectly still",
+            "dunes at the beach to be depleted",
+            "still waters on the ocean"
+        ],
+        "answer": "dunes at the beach to be depleted"
+    },
+    {
+        "query": "What happens as water levels rise?",
+        "cands": [
+            "fish swim more",
+            "homes are built",
+            "land is taller",
+            "beaches shrink"
+        ],
+        "answer": "beaches shrink"
+    },
+    {
+        "query": "An increase in an object's temperature occurs when",
+        "cands": [
+            "an orange is placed in a refrigerator",
+            "a steak is removed from the freezer to defrost",
+            "a glass of water is moved from counter top to dinner table",
+            "an ice tray is placed in a freezer"
+        ],
+        "answer": "a steak is removed from the freezer to defrost"
+    },
+    {
+        "query": "A sousaphone",
+        "cands": [
+            "is ancient",
+            "is a frog",
+            "makes deep noises",
+            "is a smartphone"
+        ],
+        "answer": "makes deep noises"
+    },
+    {
+        "query": "A cooked lobster is",
+        "cands": [
+            "inedible",
+            "cold",
+            "dead",
+            "green"
+        ],
+        "answer": "dead"
+    },
+    {
+        "query": "An animal might pant",
+        "cands": [
+            "on a sunny day",
+            "during a rain storm",
+            "when it is snowing",
+            "during the night time"
+        ],
+        "answer": "on a sunny day"
+    },
+    {
+        "query": "Carnivores",
+        "cands": [
+            "eat foliage and vegetables exclusively",
+            "are the bottom of the food chain",
+            "require prey to survive",
+            "require carbon dioxide to survive"
+        ],
+        "answer": "require prey to survive"
+    },
+    {
+        "query": "The light that appears dimmest is",
+        "cands": [
+            "the light in the hall",
+            "a light in the room",
+            "a star outside the window",
+            "a streetlight outside the window"
+        ],
+        "answer": "a star outside the window"
+    },
+    {
+        "query": "A plant will grow strong if it has",
+        "cands": [
+            "love",
+            "heat",
+            "earth",
+            "sand"
+        ],
+        "answer": "earth"
+    },
+    {
+        "query": "loose soil can be caused by one of these",
+        "cands": [
+            "a koala sitting on a tree",
+            "none of these",
+            "a worm burrowing through the earth",
+            "a bird flying through the air"
+        ],
+        "answer": "a worm burrowing through the earth"
+    },
+    {
+        "query": "An instinctual behavior is",
+        "cands": [
+            "dogs rolling over on command",
+            "frogs returning to the ponds were they hatched to lay eggs",
+            "birds mimicking human speech",
+            "seals clapping for treats from trainers"
+        ],
+        "answer": "frogs returning to the ponds were they hatched to lay eggs"
+    },
+    {
+        "query": "How do plants reproduce?",
+        "cands": [
+            "seeds",
+            "stem",
+            "flowers",
+            "leaves"
+        ],
+        "answer": "seeds"
+    },
+    {
+        "query": "What produce pollen and seeds?",
+        "cands": [
+            "lakes that are frozen over",
+            "things you give a loved one in a bouquet",
+            "various types of animals",
+            "a person that is healthy"
+        ],
+        "answer": "things you give a loved one in a bouquet"
+    },
+    {
+        "query": "which of these would be most ideal for plant root growth?",
+        "cands": [
+            "a sticky clay soil",
+            "soil with worms burrowing around",
+            "an arid soil with little looseness",
+            "all of these"
+        ],
+        "answer": "soil with worms burrowing around"
+    },
+    {
+        "query": "Having a sense of touch means",
+        "cands": [
+            "I am the water",
+            "I am a tree",
+            "I am an Ant",
+            "I am the Air"
+        ],
+        "answer": "I am an Ant"
+    },
+    {
+        "query": "Live birth is exemplified in",
+        "cands": [
+            "snakes slithering out of eggs",
+            "a calf emerging from a mother giraffe",
+            "owlets pecking out of their encasement",
+            "sea turtles emerging from their shells"
+        ],
+        "answer": "a calf emerging from a mother giraffe"
+    },
+    {
+        "query": "Cooking peas requires",
+        "cands": [
+            "fresh briny sea water",
+            "an unheated stove top",
+            "salt and cayenne pepper",
+            "turning on a stove top"
+        ],
+        "answer": "turning on a stove top"
+    },
+    {
+        "query": "Earth revolves around",
+        "cands": [
+            "the moon",
+            "outer space",
+            "another planet",
+            "an energy source"
+        ],
+        "answer": "an energy source"
+    },
+    {
+        "query": "A satellite orbits a",
+        "cands": [
+            "empty space",
+            "ocean",
+            "terrestrial body",
+            "air pocket"
+        ],
+        "answer": "terrestrial body"
+    },
+    {
+        "query": "Will happen to the number of islands if the planet's temperature rises?",
+        "cands": [
+            "they will increase",
+            "nothing will happen",
+            "they will shrink",
+            "they will double"
+        ],
+        "answer": "they will shrink"
+    },
+    {
+        "query": "There is a heightened threat of landslide in",
+        "cands": [
+            "the desert",
+            "The Andes",
+            "the ocean",
+            "Indiana"
+        ],
+        "answer": "The Andes"
+    },
+    {
+        "query": "An example of water being an electrical conductor would be what?",
+        "cands": [
+            "lightening hitting water and organisms inside dying",
+            "standing in a puddle and avoiding being struck by lightening",
+            "standing in a field and getting struck by lightening",
+            "grabbing a fence and being shocked"
+        ],
+        "answer": "lightening hitting water and organisms inside dying"
+    },
+    {
+        "query": "What would Occur once between January 1st and December 31st",
+        "cands": [
+            "The moons orbit around the year",
+            "One rotation on mercury",
+            "The distance between earth and Jupiter when traveling at light speed",
+            "A Solar Year on earth"
+        ],
+        "answer": "A Solar Year on earth"
+    },
+    {
+        "query": "Burning something that reproduces usually will:",
+        "cands": [
+            "impair its well being in some way",
+            "weed out weaker members of the species",
+            "speed up its biological functions",
+            "increase its population growth"
+        ],
+        "answer": "impair its well being in some way"
+    },
+    {
+        "query": "what does a chipmunk do with acorns",
+        "cands": [
+            "throw them at other chipmunks",
+            "leave them where they're found",
+            "use them to build shelter",
+            "transfer them to the stomach"
+        ],
+        "answer": "transfer them to the stomach"
+    },
+    {
+        "query": "A pot of pasta is boiling on the stove, and the lid on top of the pot is shaking as the water boils more rapidly. A person goes to the stove and removes the pot, releasing steam into the air above, and so the steam is",
+        "cands": [
+            "cold air",
+            "water vapor",
+            "very dry",
+            "boiling water"
+        ],
+        "answer": "water vapor"
+    },
+    {
+        "query": "A plant that gets extra minerals such as zinc are probably",
+        "cands": [
+            "planted in zinc pills",
+            "plated in the sea",
+            "placed in good soil",
+            "made out of soil"
+        ],
+        "answer": "placed in good soil"
+    },
+    {
+        "query": "Which item has a higher altitude?",
+        "cands": [
+            "Tile Floor",
+            "Cars",
+            "A 6'' Man",
+            "A Picture Book"
+        ],
+        "answer": "A 6'' Man"
+    },
+    {
+        "query": "if a student wants an orange, he would have to get it from which of these?",
+        "cands": [
+            "from a live cow",
+            "from a live plant",
+            "from a volcano cave",
+            "from a wild dog"
+        ],
+        "answer": "from a live plant"
+    },
+    {
+        "query": "What could have covered an organism in order to create a trilobite?",
+        "cands": [
+            "Grass",
+            "Water",
+            "Snow",
+            "Sand"
+        ],
+        "answer": "Sand"
+    },
+    {
+        "query": "A dog is more likely to shiver at",
+        "cands": [
+            "1 pm",
+            "5 am",
+            "9 am",
+            "6 pm"
+        ],
+        "answer": "5 am"
+    },
+    {
+        "query": "Photosynthesis does what by converting carbon dioxide, water, and sunlight into carbohydrates?",
+        "cands": [
+            "nourishes small protein bits that need to eat with tiny shakes",
+            "providing nourishment which enables some growth to vegetation",
+            "mixes carbs into soluble plant matter",
+            "makes good vegetable protein"
+        ],
+        "answer": "providing nourishment which enables some growth to vegetation"
+    },
+    {
+        "query": "where might a bunny live?",
+        "cands": [
+            "a thicket",
+            "atop palm trees",
+            "a sewer system",
+            "a deserted island"
+        ],
+        "answer": "a thicket"
+    },
+    {
+        "query": "A shark will be unable to survive on eating algae and moss, because",
+        "cands": [
+            "it is a predator",
+            "it is a vegetarian",
+            "it is a freshwater fish",
+            "it is a producer"
+        ],
+        "answer": "it is a predator"
+    },
+    {
+        "query": "A meadow vole just gave birth, and needs to feed herself so that she can produce milk for her babies. She searches for food in a field, and happily munches down on some",
+        "cands": [
+            "oil",
+            "deer",
+            "bugs",
+            "recycled plastic fruit"
+        ],
+        "answer": "bugs"
+    },
+    {
+        "query": "The Grand Canyon was formed by",
+        "cands": [
+            "a volcano erupting in 1782",
+            "a river named after the 20th state to join the union flowing over time",
+            "a river named after the 38th state to join the union flowing over time",
+            "the Great Lakes drying up"
+        ],
+        "answer": "a river named after the 38th state to join the union flowing over time"
+    },
+    {
+        "query": "A woman, with a pale complexion, wants to spend the bright, sunny day at the beach. She makes sure that she stops at the store to pick up some sunblock before she begins to enjoy her day filled with sand and surf. She applies the sunblock carefully and thoroughly, because she knows that",
+        "cands": [
+            "UV rays are harmful",
+            "sunlight will be fun",
+            "the sun is close",
+            "the sun is in space"
+        ],
+        "answer": "UV rays are harmful"
+    },
+    {
+        "query": "A person is heating water in order to cook pasta. He spills the pot of water on his leg and finds that the water",
+        "cands": [
+            "scalds",
+            "cools",
+            "toasts",
+            "freezes"
+        ],
+        "answer": "scalds"
+    },
+    {
+        "query": "Pasta may be cooked in water when",
+        "cands": [
+            "the water is warm",
+            "the water is on the stove",
+            "water is bubbling from applied warmth",
+            "the pasta is very fresh"
+        ],
+        "answer": "water is bubbling from applied warmth"
+    },
+    {
+        "query": "A decrease in diseases",
+        "cands": [
+            "has no impact on a population",
+            "leads to more sick people",
+            "leads to less sick people",
+            "leads to an uptick in emergency room visits"
+        ],
+        "answer": "leads to less sick people"
+    },
+    {
+        "query": "When soil is viewed in a scientific way, what is seen and viewed is actually",
+        "cands": [
+            "insects like big beetles",
+            "tiny lifeforms in dirt",
+            "small mammals living there",
+            "a lot of tiny pebbles"
+        ],
+        "answer": "tiny lifeforms in dirt"
+    },
+    {
+        "query": "Some animals use a liquid coming from their skin to adjust to",
+        "cands": [
+            "cold",
+            "water",
+            "heat",
+            "humidity"
+        ],
+        "answer": "heat"
+    }
+]
