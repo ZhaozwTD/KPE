@@ -4,7 +4,7 @@ Official codes for ACL2023 paper: [Knowledgeable Parameter Efficient Tuning Netw
 
 ## Overview
 
-![](/Users/zhaoziwang/Library/Application%20Support/marktext/images/2023-07-31-20-31-54-image.png)
+![](./image/img1.png)
 
 ## Usage
 
