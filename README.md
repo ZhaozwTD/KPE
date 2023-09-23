@@ -1,6 +1,6 @@
 # Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering
 
-Official codes for ACL2023 paper: [Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering]([Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering - ACL Anthology](https://aclanthology.org/2023.acl-long.503/)).
+Codes for ACL2023 paper: [Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering]([Knowledgeable Parameter Efficient Tuning Network for Commonsense Question Answering - ACL Anthology](https://aclanthology.org/2023.acl-long.503/)).
 
 ## Overview
 
